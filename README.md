@@ -25,7 +25,8 @@
 
 ---
 
-[certificado-ArthurJoséRamosDias-1775814573828 (1).pdf](https://github.com/user-attachments/files/26982133/certificado-ArthurJoseRamosDias-1775814573828.1.pdf)
+[certificado-ArthurJoséRamosDias-1775814573828.pdf](https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf)
+
 
 
 ### ⚡ Hardware
