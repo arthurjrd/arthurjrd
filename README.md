@@ -43,7 +43,7 @@ Clique em um certificado para ampliar 👇
   <a href="LINK_DO_PDF_1">
     <img src="IMAGEM_CERTIFICADO_1" alt="Arquitetura de Redes">
   </a>
-  <span>Arquitetura de Redes<br>100h</span>
+  <span>Arquitetura de Redes<br>120h</span>
 </div>
 
 <!-- CERTIFICADO 2 -->
@@ -70,24 +70,25 @@ Clique em um certificado para ampliar 👇
 
 ### 🖥️ Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
-- Instituição: Celso Lisboa  
+- Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 100h  
-- Data: 10/04/2026 ]{index=0}  
+- Data: 10/04/2026
 
 ---
 
 ### 🔌 Sistemas Digitais
 - Projetar um circuito lógico digital para resolver um problema prático  
-- Instituição: Celso Lisboa  
+- Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 100h  
-- Data: 10/04/2026 {index=1}">
+- Data: 10/04/2026
   
 
 ---
 
 ### ⚡ Hardware
 - Desenvolver um circuito elétrico para um sistema de hardware  
-- Instituição: Celso Lisboa  
-- Data: 10/04/2026 {index=2}  
+- Instituição: Centro Universitário Celso Lisboa
+- Carga horária : 100h
+- Data: 10/04/2026  
 
 </div>
