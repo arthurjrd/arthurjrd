@@ -4,38 +4,6 @@
 
 Clique em um certificado para ampliar 👇
 
-<style>
-.grid {
-  display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-  gap: 15px;
-}
-
-.cert {
-  transition: transform 0.3s ease;
-  cursor: pointer;
-  position: relative;
-}
-
-.cert img {
-  width: 100%;
-  border-radius: 10px;
-  border: 2px solid #eee;
-}
-
-.cert:hover {
-  transform: scale(1.8);
-  z-index: 10;
-}
-
-.cert span {
-  display: block;
-  margin-top: 5px;
-  font-size: 12px;
-  text-align: center;
-}
-</style>
-
 <div class="grid">
 
 <!-- CERTIFICADO 1 -->
