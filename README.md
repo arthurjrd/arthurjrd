@@ -3,7 +3,7 @@
 
 ## 🏅 Certificados adquiridos na faculdade
 
-[certificado-ArthurJoséRamosDias-1775814635445.pdf](https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf)
+[certificado ArthurJoséRamosDias redes de computadores](https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf)
 
 ### 🌐 Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
