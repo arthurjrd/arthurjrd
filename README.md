@@ -3,7 +3,7 @@
 
 ## 🏅 Certificados adquiridos na faculdade
 
-[certificado Arthur José Ramos Dias - Redes de Computadores](https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf)
+[Certificado Arthur José Ramos Dias - Redes de Computadores](https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf)
 
 ### 🌐 Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
@@ -13,7 +13,7 @@
 
 ---
 
-[certificado Arthur José Ramos Dias - Sistemas Digitais](https://github.com/user-attachments/files/26982128/certificado-ArthurJoseRamosDias-1775814610869.pdf)
+[Certificado Arthur José Ramos Dias - Sistemas Digitais](https://github.com/user-attachments/files/26982128/certificado-ArthurJoseRamosDias-1775814610869.pdf)
 
 
 ### 💻 Sistemas Digitais
@@ -25,7 +25,7 @@
 
 ---
 
-[certificado Arthur José Ramos Dias - Circuitos Elétricos](https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf)
+[Certificado Arthur José Ramos Dias - Circuitos Elétricos](https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf)
 
 
 
