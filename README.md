@@ -1,40 +1,9 @@
 <img width="1536" height="1024" alt="ChatGPT Image 22 de abr  de 2026, 15_36_18" src="https://github.com/user-attachments/assets/4ff4695e-d7ea-4f99-bfe5-793c1e2b014e" />
 
-<div class="# 🎓 Meus Certificados
 
-Clique em um certificado para ampliar 👇
+## 📚 Certificados adquiridos
 
-<div class="grid">
-
-<!-- CERTIFICADO 1 -->
-<div class="cert">
-  <a href="LINK_DO_PDF_1">
-    <img src="IMAGEM_CERTIFICADO_1" alt="Arquitetura de Redes">
-  </a>
-  <span>Arquitetura de Redes<br>120h</span>
-</div>
-
-<!-- CERTIFICADO 2 -->
-<div class="cert">
-  <a href="LINK_DO_PDF_2">
-    <img src="IMAGEM_CERTIFICADO_2" alt="Circuito Lógico Digital">
-  </a>
-  <span>Circuito Lógico Digital<br>100h</span>
-</div>
-
-<!-- CERTIFICADO 3 -->
-<div class="cert">
-  <a href="LINK_DO_PDF_3">
-    <img src="IMAGEM_CERTIFICADO_3" alt="Circuito Elétrico Hardware">
-  </a>
-  <span>Circuito Elétrico<br>Hardware</span>
-</div>
-
-</div>
-
----
-
-## 📚 Detalhes dos Certificados
+[certificado-ArthurJoséRamosDias-1775814635445.pdf](https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf)
 
 ### 🖥️ Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
@@ -44,6 +13,9 @@ Clique em um certificado para ampliar 👇
 
 ---
 
+[certificado-ArthurJoséRamosDias-1775814610869.pdf](https://github.com/user-attachments/files/26982128/certificado-ArthurJoseRamosDias-1775814610869.pdf)
+
+
 ### 🔌 Sistemas Digitais
 - Projetar um circuito lógico digital para resolver um problema prático  
 - Instituição: Centro Universitário Celso Lisboa  
@@ -52,6 +24,9 @@ Clique em um certificado para ampliar 👇
   
 
 ---
+
+[certificado-ArthurJoséRamosDias-1775814573828 (1).pdf](https://github.com/user-attachments/files/26982133/certificado-ArthurJoseRamosDias-1775814573828.1.pdf)
+
 
 ### ⚡ Hardware
 - Desenvolver um circuito elétrico para um sistema de hardware  
