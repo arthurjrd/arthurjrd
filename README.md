@@ -45,10 +45,11 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <tr>
 <td>
 
-<a [Certificado Arthur José Ramos Dias - Sistemas Digitais](https://github.com/user-attachments/files/26987605/certificado-ArthurJoseRamosDias-1775814610869.pdf)>
-
+<a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
 <strong>📄 Certificado - Sistemas Digitais</strong>
 </a>
+
+
 
 ### 💻 Sistemas Digitais
 - Projetar um circuito lógico digital para resolver um problema prático  
