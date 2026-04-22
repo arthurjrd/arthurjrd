@@ -10,9 +10,9 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <table>
 <tr>
 <td>
-
-<strong>📄 Certificado - Redes de Computadores</strong>(https://github.com/user-attachments/files/26987694/certificado-ArthurJoseRamosDias-1775814635445.pdf)
-
+  
+<a(https://github.com/user-attachments/files/26987694/certificado-ArthurJoseRamosDias-1775814635445.pdf)>
+<strong>📄 Certificado - Redes de Computadores</strong>
 
 </a>
 
