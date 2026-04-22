@@ -11,7 +11,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <tr>
 <td>
 
-<a href="https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf">
+<a> href="https://github.com/user-attachments/files/26982119/certificado-ArthurJoseRamosDias-1775814635445.pdf">
 <strong>📄 Certificado - Redes de Computadores</strong>
 </a>
 
