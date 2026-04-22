@@ -39,4 +39,8 @@
 
 
 ## 📚 Certificados adquiridos
+
+Nenhum
+
+
 </div>
