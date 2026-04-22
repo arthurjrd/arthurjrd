@@ -1,4 +1,6 @@
+
 Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de gente, consegui evoluir como pessoa. Procuro um emprego na área de TI que me desenvolva como profissional.
+
 
 <img width="1536" height="1024" alt="ChatGPT Image 22 de abr  de 2026, 15_36_18" src="https://github.com/user-attachments/assets/4ff4695e-d7ea-4f99-bfe5-793c1e2b014e" />
 
