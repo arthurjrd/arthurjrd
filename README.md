@@ -72,7 +72,7 @@ Clique em um certificado para ampliar 👇
 - Criar uma arquitetura de rede de computadores  
 - Instituição: Celso Lisboa  
 - Carga horária: 100h  
-- Data: 10/04/2026 :contentReference[oaicite:0]{index=0}  
+- Data: 10/04/2026 ]{index=0}  
 
 ---
 
@@ -80,7 +80,7 @@ Clique em um certificado para ampliar 👇
 - Projetar um circuito lógico digital para resolver um problema prático  
 - Instituição: Celso Lisboa  
 - Carga horária: 100h  
-- Data: 10/04/2026 :contentReference[oaicite:1]{index=1}">
+- Data: 10/04/2026 {index=1}">
   
 
 ---
@@ -88,18 +88,6 @@ Clique em um certificado para ampliar 👇
 ### ⚡ Hardware
 - Desenvolver um circuito elétrico para um sistema de hardware  
 - Instituição: Celso Lisboa  
-- Data: 10/04/2026 :contentReference[oaicite:2]{index=2}  
+- Data: 10/04/2026 {index=2}  
 
----
-
-## ➕ Como adicionar novos certificados
-
-Para adicionar mais certificados, copie este bloco:
-
-```html
-<div class="cert">
-  <a href="LINK_DO_CERTIFICADO">
-    <img src="IMAGEM_DO_CERTIFICADO">
-  </a>
-  <span>Nome do Curso<br>Carga Horária</span>
 </div>
