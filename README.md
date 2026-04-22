@@ -43,8 +43,6 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <strong>📄 Certificado - Sistemas Digitais</strong>
 </a>
 
-
-
 ### 💻 Sistemas Digitais
 - Projetar um circuito lógico digital para resolver um problema prático  
 - Instituição: Centro Universitário Celso Lisboa  
@@ -52,7 +50,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 - Data: 10/04/2026  
 
 </td>
----
+
 <td>
 
 ## 🏅 Certificados adquiridos em cursos extracurriculares
