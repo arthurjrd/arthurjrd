@@ -53,11 +53,12 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </td>
 
 <td>
+<img width="800" height="600" alt="image" src="https://github.com/user-attachments/assets/80c3b8eb-ba23-4f3e-8a6d-b0ba956c3a39" />
 
-## 🏅 Certificados adquiridos em cursos extracurriculares
-
-Nenhum
 
 </td>
 </tr>
 </table>
+## 🏅 Certificados adquiridos em cursos extracurriculares
+
+Nenhum
