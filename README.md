@@ -15,7 +15,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 ### 🌐 Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
 - Instituição: Centro Universitário Celso Lisboa  
-- Carga horária: 100h  
+- Carga horária: 120h  
 - Data: 10/04/2026  
 
 </td>
