@@ -2,7 +2,7 @@
 
 Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de gente, consegui evoluir como pessoa. Procuro um emprego na área de TI para dar uma guinada na minha vida e para me desenvolver como profissional na área que eu gosto.
 
-## 🏅 Certificados adquiridos na faculdade  
+🏅 Certificados adquiridos na faculdade  
 
 <table>
 <tr>
@@ -12,7 +12,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
 
-### 🌐 Redes de Computadores
+🌐 Redes de Computadores
 - Criar uma arquitetura de rede de computadores  
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 120h  
@@ -26,7 +26,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
 
-### ⚡ Hardware
+⚡ Hardware
 - Desenvolver um circuito elétrico para um sistema de hardware  
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 100h  
@@ -44,7 +44,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 <strong>📄 Certificado - Sistemas Digitais</strong>
 </a>
 
-### 💻 Sistemas Digitais
+💻 Sistemas Digitais
 - Projetar um circuito lógico digital para resolver um problema prático  
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 100h  
@@ -57,6 +57,8 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </td>
 </tr>
 </table>
-## 🏅 Certificados adquiridos em cursos extracurriculares
+
+
+🏅 Certificados adquiridos em cursos extracurriculares
 
 Nenhum
