@@ -59,6 +59,6 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </table>
 
 
-🏅 Certificados adquiridos em cursos extracurriculares
+🏅 Certificados adquiridos em cursos extras
 
 Nenhum
