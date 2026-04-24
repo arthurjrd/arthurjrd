@@ -4,7 +4,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 
 🏅 Certificados adquiridos na faculdade  
 
-<tablestyle="width: 50%;">
+<table style="width: 50%;">
 <tr>
 <td>
 
