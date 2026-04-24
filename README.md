@@ -3,7 +3,7 @@
 ➡️ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de pessoas, consegui evoluir como profissional. Procuro um emprego na área de TI para dar uma guinada na minha vida e para me desenvolver como profissional na área que eu gosto.
 <br/><br/><br/>
 
- <h1 align="center">🏅 Certificados adquiridos na faculdade</h1> 
+ <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
 <br/>
 <table style="width: 50%">
   <thead>
@@ -50,6 +50,6 @@ Lisboa.<br/>
 
 
 <br/><br/><br/>
-<h1 align="center">🏅 Certificados adquiridos em cursos extras</h1>
+<h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 Nenhum (por enquanto).
