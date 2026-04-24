@@ -6,8 +6,8 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 
 <table>
 <tr>
-<td>width="50%"
-  
+<tdwidth="50%">
+
 <a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
