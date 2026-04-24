@@ -5,7 +5,7 @@
 
  <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
 <br/>
-<table style="width: 50%">
+<table>
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
