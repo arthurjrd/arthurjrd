@@ -3,26 +3,31 @@
 Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de pessoas, consegui evoluir como profissional. Procuro um emprego na área de TI para dar uma guinada na minha vida e para me desenvolver como profissional na área que eu gosto.
 
 🏅 Certificados adquiridos na faculdade  
-<div style="width:50">
-<table>
-<tr>
-<td>
 
-<a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
+<table style="width: 50%;">
+  <thead>
+    <tr>
+      <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
-</a>
-
-🌐 Redes de Computadores
+</a></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>🌐 Redes de Computadores
 - Criar uma arquitetura de rede de computadores
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 120h  
-- Data: 10/04/2026  
+- Data: 10/04/2026  </td>
+     
+    </tr>
+  </tbody>
+</table>
 
-</td>
 
-<td>
-</div>
-<div style="width:50">
+
+
+
 <a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
@@ -33,13 +38,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 - Carga horária: 100h  
 - Data: 10/04/2026  
 
-</td>
-</tr>
-</table>
-</div>
-<table>
-<tr>
-<td>
+
 
 <a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
 <strong>📄 Certificado - Sistemas Digitais</strong>
@@ -51,13 +50,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 - Carga horária: 100h  
 - Data: 10/04/2026  
 
-</td>
 
-<td>
-
-</td>
-</tr>
-</table>
 
 
 🏅 Certificados adquiridos em cursos extras
