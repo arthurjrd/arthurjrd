@@ -9,12 +9,14 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
-<strong>📄 Certificado - Circuitos Elétricos</strong>
+<strong>📄 Certificado - Redes de Computadores</strong>
 </a></th>
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a></th>
-    
+     <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
+<strong>📄 Certificado - Sistemas Digitais</strong>
+</a></th>
     
   </thead>
   <tbody>
@@ -25,9 +27,16 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
         - Carga horária: 120h<br/>
         - Data: 10/04/2026</td>
       <td>  ⚡ Hardware <br/><br/>
-- Desenvolver um circuito elétrico para um sistema de hardware<br/>
+- Desenvolver um circuito elétrico para um sistema<br/>
+de hardware<br/>
 - Instituição: Centro Universitário Celso Lisboa<br/>
 - Carga horária: 100h<br/>  
+- Data: 10/04/2026  </td>
+   <td>   💻 Sistemas Digitais <br/><br/>
+- Projetar um circuito lógico digital para resolver<br/> 
+um problema prático<br/>
+- Instituição: Centro Universitário Celso Lisboa<br/>
+- Carga horária: 100h<br/>
 - Data: 10/04/2026  </td>
     </tr>
   </tbody>
@@ -46,8 +55,8 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
   <tbody>
     <tr>
       <td>   💻 Sistemas Digitais <br/><br/>
-- Projetar um circuito lógico digital para resolver<br/>
-um problema prático<br/>
+- Projetar um circuito lógico digital para re-<br/>
+solver um problema prático<br/>
 - Instituição: Centro Universitário Celso Lisboa<br/>
 - Carga horária: 100h<br/>
 - Data: 10/04/2026  </td>
