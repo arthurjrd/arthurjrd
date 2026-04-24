@@ -22,6 +22,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 
 <td>
 </div>
+<div style="width: 50%;">
 <a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
@@ -35,7 +36,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </td>
 </tr>
 </table>
-
+</div>
 <table>
 <tr>
 <td>
