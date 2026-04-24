@@ -29,14 +29,14 @@
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
       <td><h3>⚡ Hardware:</h3>
-        - Desenvolver um circuito elétrico para um <br/>
+        - Desenvolver um circuito elétrico para um<br/>
 sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso<br/>
 Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
       <td><h3>💻 Sistemas Digitais:</h3>
-        - Projetar um circuito lógico digital para <br/> 
+        - Projetar um circuito lógico digital para<br/> 
 resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso<br/>
 Lisboa.<br/>
