@@ -3,8 +3,8 @@
 Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de pessoas, consegui evoluir como profissional. Procuro um emprego na área de TI para dar uma guinada na minha vida e para me desenvolver como profissional na área que eu gosto.
 
 🏅 Certificados adquiridos na faculdade  
-
-<table tyle="width: 50%">
+<div style="width: 50%;">
+<table>
 <tr>
 <td>
 
@@ -13,7 +13,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </a>
 
 🌐 Redes de Computadores
-- Criar uma arquitetura de rede de computadores                      
+- Criar uma arquitetura de rede de computadores
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 120h  
 - Data: 10/04/2026  
@@ -21,7 +21,7 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 </td>
 
 <td>
-
+</div>
 <a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a>
