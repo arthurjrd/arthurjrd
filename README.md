@@ -4,12 +4,16 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 
 🏅 Certificados adquiridos na faculdade  
 
-<table style="width: 50">
+<table style="width: 50%;">
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
 <strong>📄 Certificado - Circuitos Elétricos</strong>
 </a></th>
+    <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
+<strong>📄 Certificado - Circuitos Elétricos</strong>
+</a></th>
+    
     </tr>
   </thead>
   <tbody>
@@ -19,7 +23,11 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 120h  
 - Data: 10/04/2026  </td>
-     
+      <td>⚡ Hardware
+- Desenvolver um circuito elétrico para um sistema de hardware  
+- Instituição: Centro Universitário Celso Lisboa  
+- Carga horária: 100h  
+- Data: 10/04/2026  </td>
     </tr>
   </tbody>
 </table>
@@ -28,15 +36,9 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
 
 
 
-<a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
-<strong>📄 Certificado - Circuitos Elétricos</strong>
-</a>
 
-⚡ Hardware
-- Desenvolver um circuito elétrico para um sistema de hardware  
-- Instituição: Centro Universitário Celso Lisboa  
-- Carga horária: 100h  
-- Data: 10/04/2026  
+
+
 
 
 
