@@ -46,7 +46,8 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
   <tbody>
     <tr>
       <td>   💻 Sistemas Digitais <br/><br/>
-- Projetar um circuito lógico digital para resolver um problema prático<br/>
+- Projetar um circuito lógico digital para resolver<br/>
+um problema prático<br/>
 - Instituição: Centro Universitário Celso Lisboa<br/>
 - Carga horária: 100h<br/>
 - Data: 10/04/2026  </td>
