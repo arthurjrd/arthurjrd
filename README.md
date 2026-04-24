@@ -18,12 +18,12 @@ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu
   </thead>
   <tbody>
     <tr>
-      <td>🌐 Redes de Computadores
-- Criar uma arquitetura de rede de computadores
-- Instituição: Centro Universitário Celso Lisboa  
-- Carga horária: 120h  
+      <td>🌐 Redes de Computadores\
+- Criar uma arquitetura de rede de computadores\
+- Instituição: Centro Universitário Celso Lisboa\
+- Carga horária: 120h\
 - Data: 10/04/2026  </td>
-      <td>⚡ Hardware
+      <td>⚡ Hardware  
 - Desenvolver um circuito elétrico para um sistema de hardware  
 - Instituição: Centro Universitário Celso Lisboa  
 - Carga horária: 100h  
