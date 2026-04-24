@@ -22,22 +22,19 @@
   <tbody>
     <tr>
       <td><h3>🌐 Redes de Computadores:</h3>
-        - Criar uma arquitetura de rede de<br/>
-       computadores.<br/>
+        - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso<br/>
        Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
       <td><h3>⚡ Hardware:</h3>
-        - Desenvolver um circuito elétrico para um<br/>
-sistema de hardware.<br/>
+        - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso<br/>
 Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
       <td><h3>💻 Sistemas Digitais:</h3>
-        - Projetar um circuito lógico digital para<br/> 
-resolver um problema prático.<br/>
+        - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso<br/>
 Lisboa.<br/>
         - Carga horária: 100h.<br/>
