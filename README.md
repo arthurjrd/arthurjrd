@@ -27,7 +27,7 @@
        Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
-      <td><h3>⚡ Hardware:</h3>
+      <td><h3>⚡ Circuitos Elétricos:</h3>
         - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso<br/>
 Lisboa.<br/>
