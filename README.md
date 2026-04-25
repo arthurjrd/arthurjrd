@@ -26,12 +26,12 @@
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
-      <td><h3>⚡ Circuitos Elétricos:</h3>
+      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/3" target="_blank">⚡ Circuitos Elétricos:</a><br/><br/>
         - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
-      <td><h3>💻 Sistemas Digitais:</h3>
+      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/2" target="_blank">💻 Sistemas Digitais:</a><br/><br/>
         - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>
