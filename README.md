@@ -21,7 +21,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/1" target="_blank">🌐 Redes de Computadores:</a><br/>
+      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/1" target="_blank">🌐 Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
