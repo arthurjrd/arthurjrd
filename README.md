@@ -66,7 +66,7 @@ Atualmente em busca de novos cursos e certificações na área de TI.
 <br/><br/><br/>
 
 
-
+---
 
 <h3>🧠 Em desenvolvimento...</h3>
  - Aprimorando conhecimentos em programação.<br/>
