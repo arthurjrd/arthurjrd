@@ -61,3 +61,10 @@ Contribuir com soluções eficientes para a equipe
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 Atualmente em busca de novos cursos e certificações na área de TI.
+
+
+
+<h1>🧠 Em desenvolvimento</h1> <br/>
+ - Aprimorando conhecimentos em programação
+ - Estudando novas tecnologias da área de TI
+ - Construindo projetos práticos para portfólio
