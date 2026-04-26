@@ -4,9 +4,9 @@
 
 Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico.
 
-Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher empresa.
+Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher.
 
-Estou em início de carreira na área de TI, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir.<br/><br/><br/>
+Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir.<br/><br/><br/>
 
 🎯 Objetivo:<br/>
 
