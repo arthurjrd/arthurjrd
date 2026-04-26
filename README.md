@@ -51,4 +51,4 @@ Estou comprometido com meu crescimento profissional e em contribuir de forma pos
 
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
-Nenhum (por enquanto).
+Atualmente em busca de novos cursos e certificações na área de TI.
