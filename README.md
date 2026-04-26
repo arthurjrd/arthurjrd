@@ -1,6 +1,10 @@
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/>
 
-✅ Trabalhei em duas grandes empresas de cunho comercial, o que não condiz com meu perfil, em uma trabalhei três anos e na outra por 7 anos. Nessas empresas consegui adquirir experiência com os mais diversos públicos, tanto como colegas de trabalho, quanto como clientes. Trabalhando e lidando com todo o tipo de pessoas, consegui evoluir como profissional. Procuro um emprego na área de TI para dar uma guinada na minha vida e para me desenvolver como profissional na área que eu gosto.
+✅ Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
+
+Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico.
+
+Estou comprometido com meu crescimento profissional e em contribuir de forma positiva para a equipe e os projetos da empresa.
 <br/><br/><br/>
 
  <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
