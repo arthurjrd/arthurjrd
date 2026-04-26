@@ -36,17 +36,17 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   </thead>
   <tbody>
     <tr>
-      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/1" target="_blank">🌐 Redes de Computadores:</a><br/><br/>
+      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/1">🌐 Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
-      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/3" target="_blank">⚡ Circuitos Elétricos:</a><br/><br/>
+      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/3">⚡ Circuitos Elétricos:</a><br/><br/>
         - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
-      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/2" target="_blank">💻 Sistemas Digitais:</a><br/><br/>
+      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/2">💻 Sistemas Digitais:</a><br/><br/>
         - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>
