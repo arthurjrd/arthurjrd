@@ -41,7 +41,7 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
-      <td><br/><a href="/tag/⚡ Circuitos Elétricos:/" title="Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." data-astro-cid-steqimjr="true" class="button button--light">⚡ Circuitos Elétricos:</a><br/><br/>
+      <td><br/><a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." data-astro-cid-steqimjr="true" class="button button--light">⚡ Circuitos Elétricos:</a><br/><br/>
         - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
