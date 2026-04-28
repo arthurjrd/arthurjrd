@@ -36,17 +36,17 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   </thead>
   <tbody>
     <tr>
-      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/1" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." data-astro-cid-steqimjr="true" class="button button--light">🌐 Redes de Computadores:</a><br/><br/>
+      <td><br/><a href="/tag/🌐 Redes de Computadores:/" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." data-astro-cid-steqimjr="true" class="button button--light">🌐 Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
         - Data: 10/04/2026.</td>
-      <td><br/><a href="https://github.com/arthurjrd/arthurjrd/issues/3" title="Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." data-astro-cid-steqimjr="true" class="button button--light">⚡ Circuitos Elétricos:</a><br/><br/>
+      <td><br/><a href="/tag/⚡ Circuitos Elétricos:/" title="Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." data-astro-cid-steqimjr="true" class="button button--light">⚡ Circuitos Elétricos:</a><br/><br/>
         - Desenvolver um circuito elétrico para sistema de hardware.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
-      <td><a href="https://github.com/arthurjrd/arthurjrd/issues/2" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." data-astro-cid-steqimjr="true" class="button button--light">💻 Sistemas Digitais:</a><br/><br/>
+      <td><a href="/tag/💻 Sistemas Digitais:/" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." data-astro-cid-steqimjr="true" class="button button--light">💻 Sistemas Digitais:</a><br/><br/>
         - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>
@@ -55,9 +55,6 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   </tbody>
 </table>
 <br/><br/><br/>
-
-
-
 
 
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
@@ -74,12 +71,3 @@ Atualmente em busca de novos cursos e certificações na área de TI.
  - Construindo projetos práticos para portfólio.<br/><br/><br/>
 Aberto a oportunidades e desafios que contribuam para meu crescimento na área de tecnologia.
 <br/><br/><br/>
-
-
-
-
-
-
-
-
-<a href="https://github.com/arthurjrd/arthurjrd/issues/3" title="Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." data-astro-cid-steqimjr="true" class="button button--light">⚡ Circuitos Elétricos:</a>
