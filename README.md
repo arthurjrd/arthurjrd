@@ -36,7 +36,7 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   </thead>
   <tbody>
     <tr>
-      <td><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." >Redes de Computadores:</a><br/><br/>
+      <td><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." >Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
@@ -46,7 +46,7 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
-      <td>&nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/arthurjrd/Sistemas-Digitais/tree/main" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." >Sistemas Digitais:</a><br/><br/>
+      <td>&nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." >Sistemas Digitais:</a><br/><br/>
         - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>
