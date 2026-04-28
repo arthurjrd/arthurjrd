@@ -36,7 +36,7 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   </thead>
   <tbody>
     <tr>
-      <td><br/><a href="/tag/🌐 Redes de Computadores:/" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." data-astro-cid-steqimjr="true" class="button button--light">🌐 Redes de Computadores:</a><br/><br/>
+      <td><br/><a href="https://github.com/arthurjrd/redes-de-computadores" title="Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." data-astro-cid-steqimjr="true" class="button button--light">🌐 Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
