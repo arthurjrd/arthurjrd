@@ -46,7 +46,7 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>  
         - Data: 10/04/2026.</td>
-      <td><a href="/tag/💻 Sistemas Digitais:/" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." data-astro-cid-steqimjr="true" class="button button--light">💻 Sistemas Digitais:</a><br/><br/>
+      <td><a href="https://github.com/arthurjrd/Sistemas-Digitais/tree/main" title="Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." data-astro-cid-steqimjr="true" class="button button--light">💻 Sistemas Digitais:</a><br/><br/>
         - Projetar um circuito lógico digital para resolver um problema prático.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 100h.<br/>
