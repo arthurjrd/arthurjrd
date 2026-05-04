@@ -1,3 +1,5 @@
+<body style="background-color: black;">
+
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
 🎯 Objetivo:<br/>
@@ -71,3 +73,4 @@ Atualmente em busca de novos cursos e certificações na área de TI.
  - Construindo projetos práticos para portfólio.<br/><br/><br/>
 Aberto a oportunidades e desafios que contribuam para meu crescimento na área de tecnologia.
 <br/><br/><br/>
+</body>
