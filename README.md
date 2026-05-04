@@ -24,13 +24,13 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
-<strong>📄 Certificado - Redes de Computadores</strong>
+<strong>📄 Download... Certificado - Redes de Computadores</strong>
 </a></th>
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
-<strong>📄 Certificado - Circuitos Elétricos</strong>
+<strong>📄 Download... Certificado - Circuitos Elétricos</strong>
 </a></th>
      <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
-<strong>📄 Certificado - Sistemas Digitais</strong>
+<strong>📄 Download... Certificado - Sistemas Digitais</strong>
 </a></th>
     
   </thead>
