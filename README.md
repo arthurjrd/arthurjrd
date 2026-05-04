@@ -1,5 +1,4 @@
-<html background-color: #1a1a17;>
-
+<body style="background-color: #1a1a17;">
 
 
 
@@ -83,4 +82,4 @@ Aberto a oportunidades e desafios que contribuam para meu crescimento na área d
 
 
 
-</html>
+</body>
