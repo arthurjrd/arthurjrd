@@ -1,4 +1,4 @@
-<html lang="en" data-color-mode="auto" data-light-theme="dark_colorblind" data-dark-theme="dark_colorblind" data-a11y-animated-images="system" data-a11y-link-underlines="true" data-css-features="prs_sticky_header_top_fix" class="js-focus-visible" data-js-focus-visible="" data-turbo-loaded="">
+<html data-astro-cid-4ic2zidz="true" data-astro-cid-z64c3wqy=">
 
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
