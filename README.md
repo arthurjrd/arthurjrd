@@ -1,6 +1,4 @@
-<body themeColorA: #1a1a17;">
-
-
+<section class="u-black u-clearfix u-section-2" id="carousel_7a48">
 
 
 
@@ -82,4 +80,4 @@ Aberto a oportunidades e desafios que contribuam para meu crescimento na área d
 
 
 
-</body>
+</section>
