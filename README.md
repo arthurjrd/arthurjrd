@@ -1,4 +1,4 @@
-<html background-color: #1a1a17;(--fn-color-primary-darkest);>
+<html background-color: #1a1a17;>
 
 
 
