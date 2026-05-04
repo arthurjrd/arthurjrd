@@ -1,7 +1,3 @@
-<section class="u-black u-clearfix u-section-2" id="carousel_7a48">
-
-
-
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
 🎯 Objetivo:<br/>
@@ -14,13 +10,13 @@ Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/
  - Contribuir com soluções eficientes para a equipe.
 <br/><br/><br/>
 
-&nbsp; ✅ Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
+&nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
 
-&nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico.
+&nbsp; &nbsp; &nbsp;Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico.
 
-&nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher.
+&nbsp; &nbsp; &nbsp;Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher.
 
-&nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir.<br/><br/><br/>
+&nbsp; &nbsp; &nbsp;Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir.<br/><br/><br/>
 
  <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
 <br/>
@@ -75,9 +71,3 @@ Atualmente em busca de novos cursos e certificações na área de TI.
  - Construindo projetos práticos para portfólio.<br/><br/><br/>
 Aberto a oportunidades e desafios que contribuam para meu crescimento na área de tecnologia.
 <br/><br/><br/>
-
-
-
-
-
-</section>
