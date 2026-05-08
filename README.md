@@ -1,4 +1,4 @@
-<div style="display= "flex" justify-content="center" align= "center">
+<div style="flex" justify-content="center" align= "center">
 <img width="80%" height="80" items-align= "center" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d6efd&height=150&section=heather&text=Arthur%20J%20R%20Dias&fontSize=42&fontColor=ffffff"/>
 </div>
 
