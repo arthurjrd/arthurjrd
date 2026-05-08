@@ -60,5 +60,9 @@
 
 ---
 
-Contatos:
+Contatos: <br/>
+ <a href="https://www.instagram.com/arthur_jose_dias"><img width="32" height="32" alt="003-instagram" src="https://github.com/user-attachments/assets/1422bdae-9ed9-4857-985a-2b6bcf697181" /><img width="32" height="32" alt="002-linkedin" src="https://github.com/user-attachments/assets/52e01452-9bdf-4b76-8c7b-2b28c04e768f" />
+<img width="32" height="32" alt="001-facebook" src="https://github.com/user-attachments/assets/0c3bd044-27a8-4b6f-9dd5-86cccd0a44a4" />
+<img width="32" height="32" alt="004-email" src="https://github.com/user-attachments/assets/221949d2-a9c8-43fd-a487-b8d7a05d38b5" />
+</a>
 
