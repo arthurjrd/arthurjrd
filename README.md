@@ -60,6 +60,8 @@
 
 ---
 
-Contatos: <br/>
-<a href="https://www.facebook.com/people/Arthur-Dias/pfbid02ybCVBxWPeoJnDaovtZdGXvNZwAgeUNSVT2gHTWbZPFse1ZkNQ2B264ABr4tg6yCpl/" title="Facebook do Arthur"> <figure style="border: 1px solid #ccc; padding: 10px; max-width: 300px;"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/29c6ffec-0b80-46b8-89cd-40ed6de5cd6d"/>
+Contatos: <br/><br/>
+<p align="left">
+<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/29c6ffec-0b80-46b8-89cd-40ed6de5cd6d"/></a>
 
+ <a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur" target="_blank"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/2102c934-e53f-4e40-ba93-7b372c130b03" /> </a>
