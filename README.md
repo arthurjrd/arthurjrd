@@ -61,14 +61,5 @@
 ---
 
 Contatos: <br/>
-<a href="[https://exemplo.com](https://www.facebook.com/people/Arthur-Dias/pfbid02ybCVBxWPeoJnDaovtZdGXvNZwAgeUNSVT2gHTWbZPFse1ZkNQ2B264ABr4tg6yCpl)" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/e18668d7-42ec-4b1d-9ac2-c9c1d34b7431" />
-" style="text-decoration: none; color: inherit;">
-    <figure style="border: 1px solid #ccc; padding: 10px; max-width: 300px;">
-        <img src="caminho/para/sua-imagem.jpg" alt="Descrição da imagem" style="width: 100%; height: auto;">
-        <figcaption>
-            <h3>Título do Link</h3>
-            <p>Texto descritivo que acompanha a imagem.</p>
-        </figcaption>
-    </figure>
-</a>
+<a href="https://www.facebook.com/people/Arthur-Dias/pfbid02ybCVBxWPeoJnDaovtZdGXvNZwAgeUNSVT2gHTWbZPFse1ZkNQ2B264ABr4tg6yCpl/" title="Facebook do Arthur"> <figure style="border: 1px solid #ccc; padding: 10px; max-width: 300px;"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/29c6ffec-0b80-46b8-89cd-40ed6de5cd6d"/>
 
