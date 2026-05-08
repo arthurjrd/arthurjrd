@@ -1,5 +1,5 @@
 <div style="flex" justify-content="center" align= "center">
-<img style="width:80%; height:80%; border: 25px solid #ccc;" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias&fontColor=000&section=heather&fontSize=42&fontAlignY=30&descAlign=50&descAlignY=35/>
+<img style="width:80%; height:80%; border: 25px solid #ccc;" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias&fontColor=000&section=heather&fontSize=42&descAlign=50&descAlignY=35/>
 </div>
 
 https://capsule-render.vercel.app/api?type=waving&f
