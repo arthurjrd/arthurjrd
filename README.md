@@ -11,7 +11,7 @@
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
-<strong>📄 Download... Certificado - Redes de Computadores</strong>
+<strong text-align="center">📄 Download... Certificado - Redes de Computadores</strong>
 </a></th>
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Download... Certificado - Circuitos Elétricos</strong>
@@ -23,33 +23,33 @@
   </thead>
   <tbody>
     <tr>
-      <td><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes.">Redes de Computadores:</a><br/><br/>
-        - Criar uma arquitetura de rede de computadores.<br/>
-        - Instituição: Centro Universitário Celso Lisboa.<br/>
-        - Carga horária: 120h.<br/>
-        - Data: 10/04/2026.</td>
-      <td><br/>&nbsp;&nbsp;&nbsp;⚡ <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." >Circuitos Elétricos:</a><br/><br/>
-        - Desenvolver um circuito elétrico para sistema de hardware.<br/>
-        - Instituição: Centro Universitário Celso Lisboa.<br/>
-        - Carga horária: 100h.<br/>  
-        - Data: 10/04/2026.</td>
-      <td>&nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Conteúdo programático: Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." >Sistemas Digitais:</a><br/><br/>
-        - Projetar um circuito lógico digital para resolver um problema prático.<br/>
-        - Instituição: Centro Universitário Celso Lisboa.<br/>
-        - Carga horária: 100h.<br/>
-        - Data: 10/04/2026.</td>
+      <td align="center" width="33%"><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes.">Redes de Computadores:</a><br/><br/>
+       <p align="left"> - Criar uma arquitetura de rede de computadores.</p>
+       <p align="left"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="left"> - Carga horária: 120h.</p>
+       <p align="left"> - Data: 10/04/2026.</p> </td>
+      <td align="center" width="33%"><br/>&nbsp;&nbsp;&nbsp;⚡ <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." >Circuitos Elétricos:</a><br/><br/>
+       <p align="left"> - Desenvolver um circuito elétrico para sistema de hardware.</p>
+       <p align="left"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="left"> - Carga horária: 100h.</p>
+       <p align="left"> - Data: 10/04/2026.</p></td>
+      <td align="center" width="33%">&nbsp;&nbsp;&nbsp;💻 <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Conteúdo programático: Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." >Sistemas Digitais:</a><br/><br/>
+       <p align="left"> - Projetar um circuito lógico digital para resolver um problema prático.</p>
+       <p align="left"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="left"> - Carga horária: 100h.</p>
+       <p align="left"> - Data: 10/04/2026.</p></td>
     </tr>
   </tbody>
 </table>
 <br/><br/><br/>
 
 
-<h1 text-align="center">🥈 Certificados adquiridos em cursos extras</h1>
+<h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
- <h3 text-align="center">🧠 Em desenvolvimento...</h3>
+ <h3 align="center">🧠 Em desenvolvimento...</h3>
  
- <section text-align="center"> 
+ <section align="center"> 
 ✔️ Aprimorando conhecimentos em programação;<br/>
 ✔️ Estudando novas tecnologias da área de TI;<br/>
 ✔️ Construindo projetos práticos para portfólio.<br/><br/><br/>
