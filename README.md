@@ -1,11 +1,4 @@
 <html>
-<head>
-	<title> VALIDADOR </title>
-	<meta charset="utf-8">
-	<!--<link rel="stylesheet" type="text/css" href="css/reset.css">-->
-	<link rel="stylesheet" href="css/estilo.css">
-
-</head>
 
 <body>
 	<div id="container">
@@ -13,17 +6,7 @@
 			<ul class="menu">
 				<li>Cadastro</li>
 				<li>Consultas</li>
-
-			</ul>
-
-		</nav>
-
-		<section>
-			<h1>Cadastro de usuário</h1>
-			
-		</section>
-
-	</div>
+</div>
 </body>
 </html>
 
