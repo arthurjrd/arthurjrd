@@ -84,7 +84,7 @@
 ● <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur: https://github.com/arthurjrd" style=""> GitHub </a>
 ● <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> Instagram </a>
 ● <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> LinkedIn </a>
-● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur:dias.arthurjrd@hotmail.com"> E-mail </a>
+● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> E-mail </a>
 </p>
 </div>
 
