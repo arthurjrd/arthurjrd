@@ -51,18 +51,19 @@
 
 <div align="center">
 
-<h3>🧠 Em desenvolvimento...</h3>
+<h3>... 🧠 Em desenvolvimento ...</h3>
 
 ✔️ Aprimorando conhecimentos em programação;
 
  ✔️ Estudando novas tecnologias da área de TI;
 
     ✔️ Construindo projetos práticos para portfólio.
+ 
 
-
+<h3>... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
-<br/><br/><br/>
+
 
 
 ---
