@@ -61,7 +61,7 @@
 ---
 
 <h3> Contatos: </h3>
-  <a href="https://www.facebook.com/profile.php?id=100016664351877" target="blank" title="Facebook do Arthur"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939" /> Facebook </a> 
+  <a href="https://www.facebook.com/profile.php?id=100016664351877" target="blank" title="Facebook do Arthur"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939"/> Facebook </a> 
   <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/92b5af77-57f9-40ab-a83d-e3e2ecb0d90e"/> GitHub </a> 
   <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/b1dc802b-3ff8-467b-b9e3-2a52a70ab040" /> Instagram </a> 
   <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/77e79dc7-9d8e-4623-9102-3e63254884fe"/> LinkedIn </a> 
