@@ -47,32 +47,22 @@
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
+<pre>
+
 <div align="center">
 
 <h3>🧠 Em desenvolvimento...</h3>
 
-<table>
-<tr>
-<td align="left">
 ✔️ Aprimorando conhecimentos em programação;
-</td>
-</tr>
 
-<tr>
-<td align="left">
-✔️ Estudando novas tecnologias da área de TI;
-</td>
-</tr>
+ ✔️ Estudando novas tecnologias da área de TI;
 
-<tr>
-<td align="left">
-✔️ Construindo projetos práticos para portfólio.
-</td>
-</tr>
-</table>
+    ✔️ Construindo projetos práticos para portfólio.
+
 
 </div>
-
+</pre>
+<br/><br/><br/>
 
 
 ---
