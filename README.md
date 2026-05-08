@@ -61,7 +61,18 @@
 ---
 
 Contatos: <br/><br/>
-<p align="left">
-<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/29c6ffec-0b80-46b8-89cd-40ed6de5cd6d"/></a>
 
- <a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur" target="_blank"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/2102c934-e53f-4e40-ba93-7b372c130b03" /> </a>
+<p align="left">
+   <a href="https://www.facebook.com/profile.php?id=100016664351877" target="blank" title="Facebook do Arthur"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939" /> </a>
+  <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/92b5af77-57f9-40ab-a83d-e3e2ecb0d90e"/> </a>
+  <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/b1dc802b-3ff8-467b-b9e3-2a52a70ab040" /> </a>
+
+  <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/b1dc802b-3ff8-467b-b9e3-2a52a70ab040" /> </a>
+
+
+
+
+
+
+</p>
+
