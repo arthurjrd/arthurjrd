@@ -60,11 +60,11 @@
 <div style="text-align: center;">
     <h3 style="display: inline" align="center">Contatos:</h3>
 <p style="display: inline" align="center">
-● <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur" style=""> Facebook </a>
-● <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur" style=""> GitHub </a>
-● <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur"> Instagram </a>
-● <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur"> LinkedIn </a>
-● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur"> E-mail </a></p>
+● <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" style=""> Facebook </a>
+● <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur: https://github.com/arthurjrd" style=""> GitHub </a>
+● <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> Instagram </a>
+● <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> LinkedIn </a>
+● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur:dias.arthurjrd@hotmail.com"> E-mail </a></p>
  
 </div>
 
