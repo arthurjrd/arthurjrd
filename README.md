@@ -1,8 +1,5 @@
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
-
-
-<p style="background-color: lightblue;">This paragraph has a light blue background.</p>
 🎯 Objetivo:<br/>
 
 Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:<br/>
