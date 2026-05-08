@@ -58,9 +58,9 @@
 ---
 <h3> Contatos: </h3>
 
-<a href="https://www.facebook.com/profile.php?id=100016664351877" target="_blank" style="text-decoration: none; color: black; display: inline-flex; align-items: center;">
-    <img src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939" width="32" height="32" alt="Facebook" style="width: 50; height: 50; margin-right: 10;">
-    <span> Facebook </span>
+<a href="https://www.facebook.com/profile.php?id=100016664351877" target="_blank" style="text-decoration: none; display: inline-flex; align-items: center;">
+<img src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939" width="32" height="32" alt="Facebook" style="width: 50; height: 50; margin-right: 10;">
+<span> Facebook </span>
 </a>
 
 <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur" style=""> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/92b5af77-57f9-40ab-a83d-e3e2ecb0d90e"/> GitHub </a>
