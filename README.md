@@ -30,7 +30,7 @@
       <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
        <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
        <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
-       <p align="justify"> - Carga horária: 120h.</p>
+       <p align="justify"> - Carga horária: 100h.</p>
        <p align="justify"> - Data: 10/04/2026.</p> </td>
       <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; ⚡ <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais."> Circuitos Elétricos:</a><br/><br/>
        <p align="justify"> - Desenvolver um circuito elétrico para sistema de hardware.</p>
