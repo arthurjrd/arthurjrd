@@ -1,12 +1,9 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d6efd&height=220&section=header&text=Arthur%20J%20R%20Dias&fontSize=42&fontColor=ffffff"/>
 
-&nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
-
-&nbsp; &nbsp; &nbsp;Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico.
-
-&nbsp; &nbsp; &nbsp;Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher.
-
-&nbsp; &nbsp; &nbsp;Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir.<br/><br/><br/>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
 
  <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
 <br/>
@@ -47,12 +44,12 @@
 <br/><br/><br/>
 
 
-<h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
+<h1 text-align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
- <h3 align="center">🧠 Em desenvolvimento...</h3>
+ <h3 text-align="center">🧠 Em desenvolvimento...</h3>
  
- <section align="center"> 
+ <section text-align="center"> 
 ✔️ Aprimorando conhecimentos em programação;<br/>
 ✔️ Estudando novas tecnologias da área de TI;<br/>
 ✔️ Construindo projetos práticos para portfólio.<br/><br/><br/>
@@ -61,11 +58,10 @@
 ---
 
 <h3> Contatos: </h3>
-<p align=justify>
- <li> <a href="https://www.facebook.com/profile.php?id=100016664351877" target="blank" title="Facebook do Arthur" style=""> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939"/> Facebook </a>
- <li> <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur" style=""> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/92b5af77-57f9-40ab-a83d-e3e2ecb0d90e"/> GitHub </a>
+<p> 
+ <h6> <a href="https://www.facebook.com/profile.php?id=100016664351877" target="blank" title="Facebook do Arthur" style=""> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/60087ccf-2fa6-4082-bdb3-07b29d785939"/> Facebook </a> </h6>
+ <li> <a href="https://dev.to/<seu_usuario>" target="_blank" title="GitHub do Arthur" style=""> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/92b5af77-57f9-40ab-a83d-e3e2ecb0d90e"/> GitHub </a>
  <li> <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/b1dc802b-3ff8-467b-b9e3-2a52a70ab040" /> Instagram </a> </li>
  <li> <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/77e79dc7-9d8e-4623-9102-3e63254884fe"/> LinkedIn </a> </li>
  <li> <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur"> <img width="32" height="32" alt="E-mail" src="https://github.com/user-attachments/assets/91c6eb97-e1bb-4329-9272-ed5d4ed1c9a0"/> E-mail </a> </li>
-
 </p>
