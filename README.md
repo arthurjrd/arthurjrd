@@ -11,7 +11,7 @@
   <thead>
     <tr>
       <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
-<strong text-align="center">📄 Download... Certificado - Redes de Computadores</strong>
+<strong>📄 Download... Certificado - Redes de Computadores</strong>
 </a> </th>
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Download... Certificado - Circuitos Elétricos</strong>
