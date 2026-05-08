@@ -51,24 +51,31 @@
 
 <h3>🧠 Em desenvolvimento...</h3>
 
-<table>
+<table border="0">
 <tr>
-<td>✔️</td>
-<td align="left">Aprimorando conhecimentos em programação;</td>
+<td border: "0">✔️</td>
+<td align="left" border: "0">
+Aprimorando conhecimentos em programação;
+</td>
 </tr>
 
 <tr>
-<td>✔️</td>
-<td align="left">Estudando novas tecnologias da área de TI;</td>
+<td border= "0">✔️</td>
+<td align="left" border= "0">
+Estudando novas tecnologias da área de TI;
+</td>
 </tr>
 
 <tr>
-<td>✔️</td>
-<td align="left">Construindo projetos práticos para portfólio.</td>
+<td border= "0">✔️</td>
+<td align="left" border= "0">
+Construindo projetos práticos para portfólio.
+</td>
 </tr>
 </table>
 
 </div>
+
 
 ---
 
