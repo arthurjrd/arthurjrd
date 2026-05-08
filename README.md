@@ -61,8 +61,14 @@
 ---
 
 Contatos: <br/>
- <a href="https://www.instagram.com/arthur_jose_dias"><img width="32" height="32" alt="003-instagram" src="https://github.com/user-attachments/assets/1422bdae-9ed9-4857-985a-2b6bcf697181" /><img width="32" height="32" alt="002-linkedin" src="https://github.com/user-attachments/assets/52e01452-9bdf-4b76-8c7b-2b28c04e768f" />
-<img width="32" height="32" alt="001-facebook" src="https://github.com/user-attachments/assets/0c3bd044-27a8-4b6f-9dd5-86cccd0a44a4" />
-<img width="32" height="32" alt="004-email" src="https://github.com/user-attachments/assets/221949d2-a9c8-43fd-a487-b8d7a05d38b5" />
+<a href="[https://exemplo.com](https://www.facebook.com/people/Arthur-Dias/pfbid02ybCVBxWPeoJnDaovtZdGXvNZwAgeUNSVT2gHTWbZPFse1ZkNQ2B264ABr4tg6yCpl)" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/e18668d7-42ec-4b1d-9ac2-c9c1d34b7431" />
+" style="text-decoration: none; color: inherit;">
+    <figure style="border: 1px solid #ccc; padding: 10px; max-width: 300px;">
+        <img src="caminho/para/sua-imagem.jpg" alt="Descrição da imagem" style="width: 100%; height: auto;">
+        <figcaption>
+            <h3>Título do Link</h3>
+            <p>Texto descritivo que acompanha a imagem.</p>
+        </figcaption>
+    </figure>
 </a>
 
