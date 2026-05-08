@@ -2,9 +2,12 @@
 
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
+
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
+
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
+
 
  <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
 <br/>
