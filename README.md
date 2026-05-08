@@ -1,6 +1,6 @@
 <html>
 
-<body>
+<body background-color: #80B3FF;>
 	<div id="container">
 		<nav>
 			<ul class="menu">
