@@ -53,7 +53,7 @@
  <h3 align="center">🧠 Em desenvolvimento...</h3>
  
  <section align="center"> 
-- Aprimorando conhecimentos em programação;<br/>
-- Estudando novas tecnologias da área de TI;<br/>
-- Construindo projetos práticos para portfólio.<br/><br/><br/>
+✔️ Aprimorando conhecimentos em programação;<br/>
+✔️ Estudando novas tecnologias da área de TI;<br/>
+✔️ Construindo projetos práticos para portfólio.<br/><br/><br/>
 </section>
