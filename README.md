@@ -23,7 +23,7 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
+      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
        <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
        <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
        <p align="justify"> - Carga horária: 120h.</p>
