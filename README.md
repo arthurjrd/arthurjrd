@@ -1,4 +1,4 @@
-<html >
+<html background-color="#000">🥈 Certificados adquiridos em cursos extras</h1>
 
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
@@ -61,4 +61,3 @@ Atualmente em busca de novos cursos e certificações na área de TI.
  - Aprimorando conhecimentos em programação.<br/>
  - Estudando novas tecnologias da área de TI.<br/>
  - Construindo projetos práticos para portfólio.<br/><br/><br/>
- </html>
