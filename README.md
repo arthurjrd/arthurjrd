@@ -53,22 +53,22 @@
 
 <table border="0">
 <tr>
-<td border: "0">✔️</td>
-<td align="left" border: "0">
+<td>✔️</td>
+<td align="left">
 Aprimorando conhecimentos em programação;
 </td>
 </tr>
 
 <tr>
-<td border= "0">✔️</td>
-<td align="left" border= "0">
+<td>✔️</td>
+<td align="left">
 Estudando novas tecnologias da área de TI;
 </td>
 </tr>
 
 <tr>
-<td border= "0">✔️</td>
-<td align="left" border= "0">
+<td>✔️</td>
+<td align="left">
 Construindo projetos práticos para portfólio.
 </td>
 </tr>
