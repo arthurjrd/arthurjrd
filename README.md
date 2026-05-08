@@ -1,4 +1,4 @@
-<html color-scheme:light dark;>
+<html color-scheme:dark;>
 
 
 
