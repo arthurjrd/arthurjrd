@@ -57,3 +57,8 @@
 ✔️ Estudando novas tecnologias da área de TI;<br/>
 ✔️ Construindo projetos práticos para portfólio.<br/><br/><br/>
 </section>
+
+---
+
+Contatos:
+
