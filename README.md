@@ -1,6 +1,8 @@
 <div style="flex" justify-content="center" align= "center">
-<img style="width:80%; height:80%; border: 25px solid #ccc;" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d6efd&height=200&section=heather&text=Arthur%20J%20R%20Dias&fontSize=42&fontColor=ffffff"/>
+<img style="width:80%; height:80%; border: 25px solid #ccc;" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias&fontColor=000&section=heather&fontSize=42"/>
 </div>
+
+https://capsule-render.vercel.app/api?type=waving&fontSize=42&fontAlignY=30&descAlign=100&descAlignY=100&descSize=56
 
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
