@@ -47,13 +47,28 @@
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
- <h3 align="center">🧠 Em desenvolvimento...</h3>
- 
- <section align="center"> 
-✔️ Aprimorando conhecimentos em programação;<br/>
-✔️ Estudando novas tecnologias da área de TI;<br/>
-✔️ Construindo projetos práticos para portfólio.<br/><br/><br/>
-</section>
+<div align="center">
+
+<h3>🧠 Em desenvolvimento...</h3>
+
+<table>
+<tr>
+<td>✔️</td>
+<td align="left">Aprimorando conhecimentos em programação;</td>
+</tr>
+
+<tr>
+<td>✔️</td>
+<td align="left">Estudando novas tecnologias da área de TI;</td>
+</tr>
+
+<tr>
+<td>✔️</td>
+<td align="left">Construindo projetos práticos para portfólio.</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
@@ -64,8 +79,8 @@
 ● <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur: https://github.com/arthurjrd" style=""> GitHub </a>
 ● <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> Instagram </a>
 ● <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> LinkedIn </a>
-● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur:dias.arthurjrd@hotmail.com"> E-mail </a></p>
- 
+● <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur:dias.arthurjrd@hotmail.com"> E-mail </a>
+</p>
 </div>
 
 
