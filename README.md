@@ -1,3 +1,35 @@
+<html>
+<head>
+	<title> VALIDADOR </title>
+	<meta charset="utf-8">
+	<!--<link rel="stylesheet" type="text/css" href="css/reset.css">-->
+	<link rel="stylesheet" href="css/estilo.css">
+
+</head>
+
+<body>
+	<div id="container">
+		<nav>
+			<ul class="menu">
+				<li>Cadastro</li>
+				<li>Consultas</li>
+
+			</ul>
+
+		</nav>
+
+		<section>
+			<h1>Cadastro de usuário</h1>
+			
+		</section>
+
+	</div>
+</body>
+</html>
+
+
+
+
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
 &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
