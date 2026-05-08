@@ -1,3 +1,8 @@
+<html data-color-mode=auto data-light-theme*=dark>
+
+
+
+
 <img width="1264" height="842" alt="Gemini_Generated_Image_mpkwlqmpkwlqmpkw" src="https://github.com/user-attachments/assets/b48c612b-c183-4b24-b215-773bedbc8853" /><br/><br/><br/>
 
 &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação.
@@ -26,7 +31,7 @@
   </thead>
   <tbody>
     <tr>
-      <td><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." >Redes de Computadores:</a><br/><br/>
+      <td><br/>&nbsp;&nbsp;&nbsp;🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes.">Redes de Computadores:</a><br/><br/>
         - Criar uma arquitetura de rede de computadores.<br/>
         - Instituição: Centro Universitário Celso Lisboa.<br/>
         - Carga horária: 120h.<br/>
@@ -50,7 +55,12 @@
 <h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
-<h3>🧠 Em desenvolvimento...</h3>
- - Aprimorando conhecimentos em programação.<br/>
- - Estudando novas tecnologias da área de TI.<br/>
- - Construindo projetos práticos para portfólio.<br/><br/><br/>
+ <h3 align="center">🧠 Em desenvolvimento...</h3>
+ 
+ <section align="center"> 
+- Aprimorando conhecimentos em programação;<br/>
+- Estudando novas tecnologias da área de TI;<br/>
+- Construindo projetos práticos para portfólio.<br/><br/><br/>
+</section>
+
+</html>
