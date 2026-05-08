@@ -1,4 +1,4 @@
-<img align="middle" width="80%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d6efd&height=150&section=heather&text=Arthur%20J%20R%20Dias&fontSize=42&fontColor=ffffff"/>
+<img align="center" width="80%" height="80" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:0d6efd&height=150&section=heather&text=Arthur%20J%20R%20Dias&fontSize=42&fontColor=ffffff"/>
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
