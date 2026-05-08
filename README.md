@@ -4,7 +4,7 @@
 
 🎯 Objetivo:<br/>
 
-<p style: background-color: black; Busco uma oportunidade na área de Tecnologia da Informação onde eu possa:> <br/> 
+Busco uma oportunidade na área de Tecnologia da Informação onde eu possa: <br/> 
 
  - Aplicar meus conhecimentos técnicos.<br/>
  - Desenvolver novas habilidades.<br/>
