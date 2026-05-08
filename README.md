@@ -1,5 +1,5 @@
 <div style="flex" justify-content="center" align= "center">
-<img width="100%" height="60%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias&fontColor=000&fontSize=42&fontAlign=50&fontAlignY=15">
+<img width="100%" height="40%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias&fontColor=000&fontSize=42&fontAlign=50&fontAlignY=15">
 </div>
 
 
