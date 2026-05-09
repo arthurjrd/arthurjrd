@@ -64,7 +64,7 @@
 ✔️ Construindo projetos práticos para portfólio.
  
 
-<h3 color= "white" background-color= "blue">... 🧠 Em desenvolvimento ...</h3>
+<h3>... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
 
