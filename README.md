@@ -82,7 +82,8 @@
 <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com">●E-mail</a>
 </p>
 </div>
+<div color="red" color-background= "green">
 
+<p> color= "red"Este é um texto com uma palavra vermelha</span>.</p>
 
-<p color= "red">Este é um texto com uma palavra vermelha</span>.</p>
-
+</div>
