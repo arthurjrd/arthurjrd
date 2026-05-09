@@ -84,6 +84,6 @@
 </div>
 <div color="red" color-background= "green">
 
-<p> color= "red"Este é um texto com uma palavra vermelha</span>.</p>
+<p> Este é um texto com uma palavra vermelha </p>
 
 </div>
