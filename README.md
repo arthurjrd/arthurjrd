@@ -85,5 +85,5 @@
 
 
 <p>
-  Este é um texto normal e <span style="color: white; background-color: blue;">esta palavra</span> está colorida.
+  Este é um texto normal e <span color= "white" background-color= "blue">esta palavra</span> está colorida.
 </p>
