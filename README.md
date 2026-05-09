@@ -8,8 +8,11 @@
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
 
-
- <h1 align="center">🥇 Certificados adquiridos na faculdade</h1> 
+<div> <p align="center">
+<img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28">
+<h1 align="center">Certificados adquiridos na faculdade:</h1>
+</p>
+</div>
 <br/>
 <table>
   <thead>
@@ -48,11 +51,14 @@
 <br/><br/><br/>
 
 
-<h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
+<div> <p align="center">
+<img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259" />
+<h1 align="center">Certificados adquiridos em cursos extras:</h1>
+</p>
+</div>
 <br/>
 
 <pre>
-
 <div align="center">
 
 <h3>... 🧠 Em desenvolvimento ...</h3>
@@ -62,9 +68,8 @@
 ✔️ Estudando novas tecnologias da área de TI;
 
 ✔️ Construindo projetos práticos para portfólio.
- 
 
-<h3>... 🧠 Em desenvolvimento ...</h3>
+ <h3>... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
 
