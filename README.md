@@ -67,13 +67,9 @@
 <table>
   <tbody>
     <tr>
-      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
-       <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
-       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
-       <p align="justify"> - Carga horária: 100h.</p>
-       <p align="justify"> - Data: 10/04/2026.</p> </td>
-      <td align="center" width="33%">
-      <td align="center" width="33%">
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <img width="32" height="32" alt="589885488-e662fde5-c991-4b39-9fda-cfba9165d75f" title= "Trabalhos realizados na matéria de algoritmos usando Python, os 4 acima do README são bem simples e foram feitos nas primeiras etapas do curso. No da calculadora científica foi utilizado o ChatGPT para incluir as bibliotecas (como 'math' por exemplo), deveria ter sido entregue como trabalho na etapa 3 e o adivinhar o animal seria a atividade de extensão, entretanto, por motivos pessoais não consegui entregá-los no prazo." src= "https://github.com/user-attachments/assets/b596c8fd-ea84-48a0-b348-7f41e9352dbb" />
+ <a title="Trabalhos realizados na matéria de algoritmos usando Python, os 4 acima do README são bem simples e foram feitos nas primeiras etapas do curso. No da calculadora científica foi utilizado o ChatGPT para incluir as bibliotecas (como 'math' por exemplo), deveria ter sido entregue como trabalho na etapa 3 e o adivinhar o animal seria a atividade de extensão, entretanto, por motivos pessoais não consegui entregá-los no prazo." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados ></a><br/><br/>
+       <p align="justify"> - Algorítmos em Python. </p> </td>
     </tr>
   </tbody>
 </table>
