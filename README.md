@@ -64,7 +64,7 @@
 ✔️ Construindo projetos práticos para portfólio.
  
 
-<h3 style="color: white; background-color: blue;">... 🧠 Em desenvolvimento ...</h3>
+<h3>... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
 
@@ -84,7 +84,6 @@
 </div>
 
 
+<p style="color: white; background-color: blue;"> Este é um texto normal e esta palavra está colorida. </p>
 
-<p>
-  Este é um texto normal e <span >esta palavra</span> está colorida.
-</p>
+
