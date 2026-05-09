@@ -56,7 +56,8 @@
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
 </p>
 </div>
-<br/>
+<br/><br/><br/>
+
 
 <pre>
 <div align="center">
