@@ -104,6 +104,5 @@
 
 
 
-<a href="https://facebook.com" target="_blank" class="fb-button">
-  Visit our Facebook
-</a>
+<button class="ss-btn-vine">Add your text here</button>
+
