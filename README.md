@@ -84,5 +84,5 @@
 </div>
 
 
-<p>Este é um texto com uma <span style="color: red;">palavra vermelha</span>.</p>
+<p color= "red">Este é um texto com uma palavra vermelha</span>.</p>
 
