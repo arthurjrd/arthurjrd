@@ -104,5 +104,27 @@
 
 
 
-<button>Add your text here</button>
+button social media html for github           +12                   To create social media buttons for a GitHub project or profile, you can use several methods depending on where you intend to display them.1. For a Website Hosted on GitHub PagesIf you are building a full website and want to add custom buttons, you can use a combination of HTML and CSS. You can find pre-made templates and libraries on GitHub, such as marijohannessen/social-media-buttons or mattboldt/social-buttons.Basic HTML/CSS Example:You can create a simple set of round buttons using Font Awesome icons and the following structure:html<!-- Include Font Awesome in your <head> -->
+<link rel="stylesheet" href="https://cloudflare.com">
+
+<!-- Social Media Buttons -->
+<a href="#" class="fa fa-facebook"></a>
+<a href="#" class="fa fa-twitter"></a>
+<a href="#" class="fa fa-github"></a>
+
+<style>
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 30px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 50%;
+  margin: 5px;
+}
+
+.fa-facebook { background: #3B5998; color: white; }
+.fa-twitter { background: #55ACEE; color: white; }
+.fa-github { background: #333; color: white; }
+</style>
 
