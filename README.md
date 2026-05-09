@@ -101,4 +101,5 @@
 </div>
 
 
-<button type="button">Clique Aqui</button>
+<a href="https://google.com" target="_blank" role="button" style="text-decoration: none; padding: 10px; background-color: lightgray; border: 1px solid black; color: black; border-radius: 5px;">Ir para o Google</a>
+
