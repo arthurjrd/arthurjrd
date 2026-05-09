@@ -99,3 +99,9 @@
 <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com">●E-mail</a>
 </p>
 </div>
+
+
+
+<!-- Example of an official-style button using an iframe -->
+<iframe src="https://ghbtns.com" 
+        frameborder="0" scrolling="0" width="150" height="20"></iframe>
