@@ -64,7 +64,7 @@
 ✔️ Construindo projetos práticos para portfólio.
  
 
-<h3>... 🧠 Em desenvolvimento ...</h3>
+<h3 color= "white" background-color= "blue">... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
 
@@ -82,8 +82,3 @@
 <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com">●E-mail</a>
 </p>
 </div>
-
-
-<p>
-  Este é um texto normal e <span color= "white" background-color= "blue">esta palavra</span> está colorida.
-</p>
