@@ -8,12 +8,13 @@
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
 
-<div> <p align="center">
+<div align="center">
 <img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28">
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
-</p>
 </div>
 <br/>
+
+
 <table>
   <thead>
     <tr>
@@ -51,12 +52,18 @@
 <br/><br/><br/>
 
 
-<div> <p align="center">
-<img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259" />
+<div align="center">
+<img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259">
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
-</p>
 </div>
 <br/><br/><br/>
+
+<div align="center"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"><h1 align="center">Algorítimos e projetos diversos:</h1>
+</div>
+<br/>
+
+<br/><br/><br/>
+
 
 
 <pre>
