@@ -48,7 +48,7 @@
 <br/><br/><br/>
 
 
-<h1 align="center" style="color: white; background-color: blue;">🥈 Certificados adquiridos em cursos extras</h1>
+<h1 align="center">🥈 Certificados adquiridos em cursos extras</h1>
 <br/>
 
 <pre>
