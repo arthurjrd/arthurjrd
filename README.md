@@ -102,6 +102,7 @@
 
 
 
-<!-- Example of an official-style button using an iframe -->
-<iframe src="https://ghbtns.com" 
-        frameborder="0" scrolling="0" width="150" height="20"></iframe>
+
+
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/GitHub" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @GitHub on GitHub">Follow @GitHub</a>
