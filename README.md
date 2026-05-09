@@ -104,5 +104,6 @@
 
 
 
-<!-- Place this tag where you want the button to render. -->
-<a class="github-button" href="https://github.com/GitHub" data-color-scheme="no-preference: dark; light: dark; dark: dark;" aria-label="Follow @GitHub on GitHub">Follow @GitHub</a>
+<a href="https://facebook.com" target="_blank" class="fb-button">
+  Visit our Facebook
+</a>
