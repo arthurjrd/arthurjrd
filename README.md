@@ -58,9 +58,25 @@
 </div>
 <br/><br/><br/>
 
-<div align="center"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"><h1 align="center">Algorítimos e projetos diversos:</h1>
+<div align="center"> 
+<img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6">
+<h1 align="center">Algorítimos e projetos diversos:</h1>
 </div>
 <br/>
+
+<table>
+  <tbody>
+    <tr>
+      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
+       <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
+       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="justify"> - Carga horária: 100h.</p>
+       <p align="justify"> - Data: 10/04/2026.</p> </td>
+      <td align="center" width="33%">
+      <td align="center" width="33%">
+    </tr>
+  </tbody>
+</table>
 
 <br/><br/><br/>
 
@@ -68,25 +84,18 @@
 
 <pre>
 <div align="center">
-
 <h3>... 🧠 Em desenvolvimento ...</h3>
-
 ✔️ Aprimorando conhecimentos em programação;
-
 ✔️ Estudando novas tecnologias da área de TI;
-
 ✔️ Construindo projetos práticos para portfólio.
-
- <h3>... 🧠 Em desenvolvimento ...</h3>
+<h3>... 🧠 Em desenvolvimento ...</h3>
 </div>
 </pre>
-
-
 
 ---
 
 <div style="text-align: center;">
-    <h3 style="display: inline" align="center">Contatos:</h3>
+<h3 style="display: inline" align="center">Contatos:</h3>
 <p style="display: inline" align="center">
 <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" style="">●Facebook</a>&nbsp;
 <a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur: https://github.com/arthurjrd" style="">●GitHub</a>&nbsp;
