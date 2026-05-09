@@ -104,5 +104,5 @@
 
 
 
-<button class="ss-btn-vine">Add your text here</button>
+<button>Add your text here</button>
 
