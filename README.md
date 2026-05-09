@@ -64,11 +64,11 @@
 </div>
 <br/>
 
-<table>
+<table align="center">
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <img width="32" height="32" alt="589885488-e662fde5-c991-4b39-9fda-cfba9165d75f" title= "Trabalhos realizados na matéria de algoritmos usando Python, os 4 acima do README são bem simples e foram feitos nas primeiras etapas do curso. No da calculadora científica foi utilizado o ChatGPT para incluir as bibliotecas (como 'math' por exemplo), deveria ter sido entregue como trabalho na etapa 3 e o adivinhar o animal seria a atividade de extensão, entretanto, por motivos pessoais não consegui entregá-los no prazo." src= "https://github.com/user-attachments/assets/b596c8fd-ea84-48a0-b348-7f41e9352dbb"><br/>
- <a title="Trabalhos realizados na matéria de algoritmos usando Python, os 4 acima do README são bem simples e foram feitos nas primeiras etapas do curso. No da calculadora científica foi utilizado o ChatGPT para incluir as bibliotecas (como 'math' por exemplo), deveria ter sido entregue como trabalho na etapa 3 e o adivinhar o animal seria a atividade de extensão, entretanto, por motivos pessoais não consegui entregá-los no prazo." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> - Algorítmos em Python. </a><br/><br/>
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <img width="32" height="32" alt="589885488-e662fde5-c991-4b39-9fda-cfba9165d75f" title= "Trabalhos realizados na matéria de algoritmos usando Python." alt="Endpoint Badge" src= "https://github.com/user-attachments/assets/b596c8fd-ea84-48a0-b348-7f41e9352dbb"><br/>
+        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> - Algorítmos em Python. </a><br/><br/>
     </tr>
   </tbody>
 </table>
@@ -92,8 +92,8 @@
 <div style="text-align: center;">
 <h3 style="display: inline" align="center">Contatos:</h3>
 <p style="display: inline" align="center">
-<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" style="">●Facebook</a>&nbsp;
-<a href="https://github.com/arthurjrd" target="_blank" title="GitHub do Arthur: https://github.com/arthurjrd" style="">●GitHub</a>&nbsp;
+<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877">●Facebook</a>&nbsp;
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd">●GitHub</a>&nbsp;
 <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias">●Instagram</a>&nbsp;
 <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc">●LinkedIn</a>&nbsp;
 <a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com">●E-mail</a>
