@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=000&fontSize=35&fontAlign=50&fontAlignY=25">
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=000&fontSize=35&fontAlign=50&fontAlignY=25"> </a>
 
 
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
@@ -9,7 +9,7 @@
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
 
 <div align="center">
-<img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28">
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28"> </a>
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
 </div>
 <br/>
