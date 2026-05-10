@@ -1,16 +1,6 @@
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=000&fontSize=35&fontAlign=50&fontAlignY=25"> </a>
 
-
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
-
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
-
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/>
-
 ---
-
-
 <h3>&nbsp;Contatos:</h3>
 
 <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="50" height="50" alt="square-linkedin-brands-solid-full" src="https://github.com/user-attachments/assets/58f89647-16f4-49ff-908c-ace0d0821d25" alt="texto" align="left"> </a>
@@ -25,8 +15,16 @@
 <br/><br/><br/>
 
 ---
-<br/>
+<h3>Sobre mim:</h3>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
 
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
+
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/>
+
+
+<br/><br/>
 <div align="center">
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28"> </a>
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
@@ -75,7 +73,7 @@
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259"> </a>
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
 </div>
-<br/><br/><br/>
+<br/><br/><br/><br/><br/><br/><br/>
 
 <div align="center"> 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"> </a>
