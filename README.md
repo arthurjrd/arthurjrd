@@ -74,19 +74,6 @@
 </table>
 
 <br/><br/><br/>
-
-
-
-<pre>
-<div align="center">
-<h3>... 🧠 Em desenvolvimento ...</h3>
-✔️ Aprimorando conhecimentos em programação;
-&nbsp;✔️ Estudando novas tecnologias da área de TI;
-&nbsp;&nbsp; &nbsp;✔️ Construindo projetos práticos para portfólio.
-<h3>... 🧠 Em desenvolvimento ...</h3>
-</div>
-</pre>
-
 ---
 
 
