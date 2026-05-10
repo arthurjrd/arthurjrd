@@ -109,7 +109,4 @@
 
 <img width="50" height="50" src="https://github.com/user-attachments/assets/9a858da4-38af-4f90-a143-2113604cdab5" alt="texto" align="left">
 
-<img width="150" height="50" src="https://github.com/user-attachments/assets/9a858da4-38af-4f90-a143-2113604cdab5" alt="texto" align="left">
-
-
 
