@@ -108,3 +108,5 @@
 <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> <img width="150" height="150" alt="square-instagram-brands-solid-full" src="https://github.com/user-attachments/assets/79a93127-e3d7-46a0-aae1-55d994d97956"> </a>
 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="150" height="150" alt="square-github-brands-solid-full" src="https://github.com/user-attachments/assets/24723e87-14d5-46eb-be32-03526de55acb"> </a>
+
+<a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> <img width="150" height="150" alt="square-envelope-solid-full" src="https://github.com/user-attachments/assets/b7f7e278-60d0-415c-87e6-5f3683d656d3"> </a>
