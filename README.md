@@ -101,5 +101,6 @@
 </div>
 
 
+<a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="150" height="150" alt="square-github-brands-solid-full" src="https://github.com/user-attachments/assets/24723e87-14d5-46eb-be32-03526de55acb"></a>
 
 
