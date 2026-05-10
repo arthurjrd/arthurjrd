@@ -1,6 +1,5 @@
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=000&fontSize=35&fontAlign=50&fontAlignY=25"> </a>
 
----
 <h3>&nbsp;Contatos:</h3>
 
 <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="50" height="50" alt="square-linkedin-brands-solid-full" src="https://github.com/user-attachments/assets/58f89647-16f4-49ff-908c-ace0d0821d25" alt="texto" align="left"> </a>
