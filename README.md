@@ -53,13 +53,13 @@
 
 
 <div align="center">
-<img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259">
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259"> </a>
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
 </div>
 <br/><br/><br/>
 
 <div align="center"> 
-<img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6">
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"> </a>
 <h1 align="center">Algorítimos e projetos diversos:</h1>
 </div>
 <br/>
