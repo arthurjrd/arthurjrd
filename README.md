@@ -1,4 +1,4 @@
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=fff&fontSize=35&fontAlign=50&fontAlignY=25"> </a>
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25"> </a>
 
 <h3>&nbsp;Contatos:</h3>
 
