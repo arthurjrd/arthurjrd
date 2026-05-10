@@ -6,7 +6,26 @@
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
 
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/>
+
+---
+
+
+<h3>&nbsp;Contatos:</h3>
+
+<a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="50" height="50" alt="square-linkedin-brands-solid-full" src="https://github.com/user-attachments/assets/58f89647-16f4-49ff-908c-ace0d0821d25" alt="texto" align="left"> </a>
+
+<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877"> <img width="50" height="50" alt="square-facebook-brands-solid-full" src="https://github.com/user-attachments/assets/bcb29fa3-224c-44ce-863d-62d631caedf4" alt="texto" align="left"> </a>
+
+<a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> <img width="50" height="50" alt="square-instagram-brands-solid-full" src="https://github.com/user-attachments/assets/79a93127-e3d7-46a0-aae1-55d994d97956" alt="texto" align="left"> </a>
+
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="50" height="50" alt="square-github-brands-solid-full" src="https://github.com/user-attachments/assets/24723e87-14d5-46eb-be32-03526de55acb" alt="texto" align="left"> </a>
+
+<a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> <img width="50" height="50" alt="square-envelope-solid-full" src="https://github.com/user-attachments/assets/b7f7e278-60d0-415c-87e6-5f3683d656d3" alt="texto" align="left"> </a>
+<br/><br/><br/>
+
+---
+<br/>
 
 <div align="center">
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28"> </a>
@@ -72,19 +91,3 @@
     </tr>
   </tbody>
 </table>
-
-<br/><br/><br/>
----
-
-
-<h3>&nbsp;Contatos:</h3>
-
-<a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="50" height="50" alt="square-linkedin-brands-solid-full" src="https://github.com/user-attachments/assets/58f89647-16f4-49ff-908c-ace0d0821d25" alt="texto" align="left"> </a>
-
-<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877"> <img width="50" height="50" alt="square-facebook-brands-solid-full" src="https://github.com/user-attachments/assets/bcb29fa3-224c-44ce-863d-62d631caedf4" alt="texto" align="left"> </a>
-
-<a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> <img width="50" height="50" alt="square-instagram-brands-solid-full" src="https://github.com/user-attachments/assets/79a93127-e3d7-46a0-aae1-55d994d97956" alt="texto" align="left"> </a>
-
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="50" height="50" alt="square-github-brands-solid-full" src="https://github.com/user-attachments/assets/24723e87-14d5-46eb-be32-03526de55acb" alt="texto" align="left"> </a>
-
-<a href="mailto:dias.arthurjrd@hotmail.com" target="_blank" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> <img width="50" height="50" alt="square-envelope-solid-full" src="https://github.com/user-attachments/assets/b7f7e278-60d0-415c-87e6-5f3683d656d3" alt="texto" align="left"> </a>
