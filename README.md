@@ -101,23 +101,23 @@
  </thead>
   <tbody>
     <tr>
-      <td align="center" width="33%">
+  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
        <p align="justify"> - Conclusão do ensino médio.</p>
        <p align="justify"> - Instituição: Colégio e curso PH.</p>
        <p align="justify"> - Carga horária: 2.740h.</p>
        <p align="justify"> - Data: 15/12/2008.</p> </td>
       
-      <td align="center" width="33%">
+  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
        <p align="justify"> - Conclusão dos livros desde o básico ao avançado.</p>
        <p align="justify"> - Instituição: FISK Centro de Ensino.</p>
        <p align="justify"> - Carga horária: Várias h.</p>
-       <p align="justify"> - Data: 28/06/2011.</p></td>
+       <p align="justify"> - Data: 28/06/2011.</p> </td>
        
-      <td align="center" width="33%">
+  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
        <p align="justify"> - Curso de Montagem e Manutenção de Computadores, de Redes, de Celulares e de Notebooks.</p>
        <p align="justify"> - Instituição: Prepara Cursos.</p>
        <p align="justify"> - Carga horária: 116h.</p>
-       <p align="justify"> - Data: 14/09/2016.</p></td>
+       <p align="justify"> - Data: 14/09/2016.</p> </td>
     </tr>
   </tbody>
 </table>
