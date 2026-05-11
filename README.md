@@ -29,11 +29,11 @@
 
 <br/><br/>
 <div align="center">
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877440-7b41cbaa-efdd-410c-a55d-da9d67620556" src="https://github.com/user-attachments/assets/202b3e81-dd4a-400c-943a-c864263e3b28"> </a>
+<div align="center">
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Gold_medal" src="https://github.com/user-attachments/assets/ee13a258-43b8-4a61-b737-75fe72161b28"> </a>
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
 </div>
 <br/>
-
 
 <table>
   <thead>
@@ -73,10 +73,46 @@
 
 
 <div align="center">
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877431-37db9b80-d4bd-46ae-806e-7fd46dada134" src="https://github.com/user-attachments/assets/6834c3a9-9335-4063-ad86-d74c00b37259"> </a>
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Silver_medal" src="https://github.com/user-attachments/assets/002a85a6-d9cd-4d52-a87b-c13371d9e8e9"> </a>
+
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
+<br/>
 </div>
-<br/><br/><br/><br/><br/><br/><br/>
+===========================================================================v
+<table>
+  <thead>
+    <tr>
+      <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
+<strong>📄 Download... Certificado - Redes de Computadores</strong>
+</a> </th>
+    <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
+<strong>📄 Download... Certificado - Circuitos Elétricos</strong>
+</a> </th>
+     <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
+<strong>📄 Download... Certificado - Sistemas Digitais</strong>
+</a> </th>
+    
+  </thead>
+  <tbody>
+    <tr>
+      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp; 🌐 <a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes."> Redes de Computadores:</a><br/><br/>
+       <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
+       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="justify"> - Carga horária: 100h.</p>
+       <p align="justify"> - Data: 10/04/2026.</p> </td>
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; ⚡ <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais."> Circuitos Elétricos:</a><br/><br/>
+       <p align="justify"> - Desenvolver um circuito elétrico para sistema de hardware.</p>
+       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="justify"> - Carga horária: 100h.</p>
+       <p align="justify"> - Data: 10/04/2026.</p></td>
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; 💻 <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Conteúdo programático: Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico."> Sistemas Digitais:</a><br/><br/>
+       <p align="justify"> - Projetar um circuito lógico digital para resolver um problema prático.</p>
+       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
+       <p align="justify"> - Carga horária: 100h.</p>
+       <p align="justify"> - Data: 10/04/2026.</p></td>
+    </tr>
+  </tbody>
+</table>
 
 <div align="center"> 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"> </a>
@@ -92,3 +128,14 @@
     </tr>
   </tbody>
 </table>
+
+
+
+
+
+ />
+
+
+
+<img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e" />
+
