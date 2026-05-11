@@ -89,7 +89,7 @@
 <table>
   <thead>
     <tr>
-      <th><a target="_blank" src="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900"> 
+      <th><a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900"> 
 <strong>📄 Visualizar... Certificado - Conclusão do ensino Médio.</strong>
 </a> </th>
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
