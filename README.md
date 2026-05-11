@@ -83,21 +83,21 @@
 
 
 
-
+<img width="1500" height="1088" alt="Prepara" src="https://github.com/user-attachments/assets/bc707150-4f0f-4a45-9a52-21ad0eeb85da" />
 
 
 <table>
   <thead>
     <tr>
-      <th><a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900"> 
-<strong>📄 Visualizar... Certificado - Conclusão do ensino Médio.</strong>
-</a> </th>
-    <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
-<strong>📄 Download... Certificado - Circuitos Elétricos</strong>
-</a> </th>
-     <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
-<strong>📄 Download... Certificado - Sistemas Digitais</strong>
-</a> </th>
+      <th> <a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900"> 
+<strong>📄 Visualizar... Certificado - Conclusão do ensino Médio.</strong> </a> 
+      </th>
+    <th> <a href="https://github.com/user-attachments/assets/c149a3e7-692b-41ce-ba96-136657469fe3">
+<strong>📄 Visualizar... Certificado - Conclusão do curso de Inglês.</strong> </a> 
+    </th>
+     <th> <a href="https://github.com/user-attachments/assets/bc707150-4f0f-4a45-9a52-21ad0eeb85da">
+<strong>📄 Visualizar... Certificado - Conclusão do curso de Hardware.</strong> </a>
+    </th>
     
   </thead>
   <tbody>
