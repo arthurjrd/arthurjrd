@@ -123,8 +123,12 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="589885488-e662fde5-c991-4b39-9fda-cfba9165d75f" title= "Trabalhos realizados na matéria de algoritmos usando Python." alt="Endpoint Badge" src= "https://github.com/user-attachments/assets/b596c8fd-ea84-48a0-b348-7f41e9352dbb"> </a> <br/>
-        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> Algorítmos em Python. </a><br/><br/>
+      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."> </a> <br/>
+        
+<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> Algorítmos em Python. </a><br/><br/>
     </tr>
   </tbody>
 </table
+
+
+
