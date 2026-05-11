@@ -131,9 +131,6 @@
     <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
 <strong>📄 Download... Certificado - Circuitos Elétricos</strong>
 </a> </th>
-     <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
-<strong>📄 Download... Certificado - Sistemas Digitais</strong>
-</a> </th>
     
   </thead>
   <tbody>
