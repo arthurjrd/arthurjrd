@@ -78,12 +78,6 @@
 <h1 align="center">Certificados adquiridos em cursos extras:</h1>
 <br/>
 </div>
-===========================================================================v
-
-
-
-
-
 
 
 <table>
@@ -101,50 +95,53 @@
  </thead>
   <tbody>
     <tr>
-  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
-       <p align="justify"> - Conclusão do ensino médio.</p>
+  <td align="center" width="33%">
+       <p align="justify"> - Conclusão do Ensino médio.</p>
        <p align="justify"> - Instituição: Colégio e curso PH.</p>
        <p align="justify"> - Carga horária: 2.740h.</p>
        <p align="justify"> - Data: 15/12/2008.</p> </td>
       
-  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
-       <p align="justify"> - Conclusão dos livros desde o básico ao avançado.</p>
+  <td align="center" width="33%">
+       <p align="justify"> - Conclusão dos cursos: desde o mais básico ao avançado.</p>
        <p align="justify"> - Instituição: FISK Centro de Ensino.</p>
        <p align="justify"> - Carga horária: Várias h.</p>
        <p align="justify"> - Data: 28/06/2011.</p> </td>
        
-  <td align="center" width="33%"> &nbsp;&nbsp;&nbsp;
+  <td align="center" width="33%">
        <p align="justify"> - Curso de Montagem e Manutenção de Computadores, de Redes, de Celulares e de Notebooks.</p>
        <p align="justify"> - Instituição: Prepara Cursos.</p>
        <p align="justify"> - Carga horária: 116h.</p>
        <p align="justify"> - Data: 14/09/2016.</p> </td>
     </tr>
   </tbody>
+
+
 </table>
 <br/>
 <table>
   <thead>
     <tr>
-      <th><a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900"> 
-<strong>📄 Visualizar... Certificado - Conclusão do ensino Médio.</strong>
+      <th><a href="https://github.com/user-attachments/assets/27a567e5-3347-4e0e-92f1-288cbf26a553"> 
+<strong>📄 Visualizar... Certificado - Conclusão do Curso de Web Design.</strong>
 </a> </th>
-    <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
-<strong>📄 Download... Certificado - Circuitos Elétricos</strong>
+    <th><a href="https://github.com/user-attachments/assets/da3619a9-898b-48ac-bad6-0137209bf684">
+<strong>📄 Visualizar... Certificado - Conclusão do Curso de Windows, Internet e Pacote Office.</strong>
 </a> </th>
     
   </thead>
   <tbody>
     <tr>
       <td align="center" width="50%">
-       <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
-       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
-       <p align="justify"> - Carga horária: 100h.</p>
-       <p align="justify"> - Data: 10/04/2026.</p> </td>
+       <p align="justify"> - Html, Fireworks, Dreanweaver, Flash, Concepção e Projeto de Sites.</p>
+       <p align="justify"> - Instituição: TEMA Informática.</p>
+       <p align="justify"> - Carga horária: 66h.</p>
+       <p align="justify"> - Data: 20/12/2006.</p> </td>
+      
       <td align="center" width="50%">
-       <p align="justify"> - Desenvolver um circuito elétrico para sistema de hardware.</p>
-       <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
-       <p align="justify"> - Carga horária: 100h.</p>
-       <p align="justify"> - Data: 10/04/2026.</p></td>
+       <p align="justify"> - Windows, Internet e Pacote Office.</p>
+       <p align="justify"> - Instituição: Escola Profissionalizante JFW Informática.</p>
+       <p align="justify"> - Carga horária: 102h.</p>
+       <p align="justify"> - Data: 12/04/2005.</p></td>
     </tr>
   </tbody>
 </table>
@@ -164,7 +161,4 @@
 <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> Algorítmos em Python. </a><br/><br/>
     </tr>
   </tbody>
-</table
-
-
-
+</table>
