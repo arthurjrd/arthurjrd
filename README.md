@@ -83,7 +83,7 @@
 
 
 
-<img width="1500" height="1088" alt="Prepara" src="https://github.com/user-attachments/assets/bc707150-4f0f-4a45-9a52-21ad0eeb85da" />
+
 
 
 <table>
