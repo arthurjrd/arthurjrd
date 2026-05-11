@@ -115,7 +115,7 @@
 </table>
 
 <div align="center"> 
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="589877410-98d24ed0-7186-444c-8645-03292e6493dd" src="https://github.com/user-attachments/assets/808f3b35-193d-4da7-992c-56ed857a70d6"> </a>
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e"> </a>
 <h1 align="center">Algorítimos e projetos diversos:</h1>
 </div>
 <br/>
@@ -127,15 +127,4 @@
         <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> Algorítmos em Python. </a><br/><br/>
     </tr>
   </tbody>
-</table>
-
-
-
-
-
- />
-
-
-
-<img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e" />
-
+</table
