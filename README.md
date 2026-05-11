@@ -131,13 +131,13 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" width="50%">
+  <td align="center" width="50%">
        <p align="justify"> - Html, Fireworks, Dreanweaver, Flash, Concepção e Projeto de Sites.</p>
        <p align="justify"> - Instituição: TEMA Informática.</p>
        <p align="justify"> - Carga horária: 66h.</p>
        <p align="justify"> - Data: 20/12/2006.</p> </td>
       
-      <td align="center" width="50%">
+  <td align="center" width="50%">
        <p align="justify"> - Windows, Internet e Pacote Office.</p>
        <p align="justify"> - Instituição: Escola Profissionalizante JFW Informática.</p>
        <p align="justify"> - Carga horária: 102h.</p>
