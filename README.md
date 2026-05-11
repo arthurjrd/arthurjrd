@@ -148,6 +148,7 @@
     </tr>
   </tbody>
 </table>
+<br/><br/><br/>
 
 <div align="center"> 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e"> </a>
