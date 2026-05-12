@@ -37,15 +37,15 @@
 <table>
   <thead>
     <tr>
-      <th><a href="https://github.com/user-attachments/files/26987780/certificado-ArthurJoseRamosDias-1775814635445.1.pdf">
-<strong>📄 Download... Certificado - Redes de Computadores</strong>
-</a> </th>
-    <th><a href="https://github.com/user-attachments/files/26982492/certificado-ArthurJoseRamosDias-1775814573828.pdf">
-<strong>📄 Download... Certificado - Circuitos Elétricos</strong>
-</a> </th>
-     <th><a href="https://github.com/user-attachments/files/26987885/certificado-ArthurJoseRamosDias-1775814610869.2.pdf">
-<strong>📄 Download... Certificado - Sistemas Digitais</strong>
-</a> </th>
+      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071">
+<strong>📄 Download... Certificado - Redes de Computadores</strong> </a>
+      </th>
+    <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd">
+<strong>📄 Download... Certificado - Circuitos Elétricos</strong> </a>
+    </th>
+     <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e">
+<strong>📄 Download... Certificado - Sistemas Digitais</strong> </a>
+     </th>
     
   </thead>
   <tbody>
