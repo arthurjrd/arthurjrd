@@ -38,13 +38,13 @@
   <thead>
     <tr>
       <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071">
-<strong>📄 Download... Certificado - Redes de Computadores</strong> </a>
+<strong>📄 Visualizar... Certificado - Redes de Computadores</strong> </a>
       </th>
     <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd">
-<strong>📄 Download... Certificado - Circuitos Elétricos</strong> </a>
+<strong>📄 Visualizar... Certificado - Circuitos Elétricos</strong> </a>
     </th>
      <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e">
-<strong>📄 Download... Certificado - Sistemas Digitais</strong> </a>
+<strong>📄 Visualizar... Certificado - Sistemas Digitais</strong> </a>
      </th>
     
   </thead>
