@@ -174,9 +174,9 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."> </a> <br/>
+      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."target="_blank" rel="noopener"> </a> <br/>
         
-<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank" rel="noopener"> Algorítmos em Python. </a><br/><br/>
+<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank" rel="noopener"> Algorítmos em Python. </a> <br/><br/>
     </tr>
   </tbody>
 </table>
