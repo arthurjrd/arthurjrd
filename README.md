@@ -1,10 +1,12 @@
-<!-- Barra inicial -->
+<!-- Barra inicial. -->
 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25"> </a>
 
-<!-- Fim da barra inicial -->
+<!-- Fim da barra inicial. -->
 
-<!-- Início das formas de contatos -->
+
+
+<!-- Início das formas de contatos. -->
 
 <h3>&nbsp;Contatos:</h3>
 
@@ -16,31 +18,33 @@
 
 <a href="https://www.instagram.com/arthur_jose_dias" target="_blank" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/6dcc7e31-32a8-465d-ba6e-4d1cc9007de9" alt="texto" align="left"> </a>
 
-<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a>
+<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a> <br/><br/><br/>
 
-<br/><br/><br/>
-<!-- Fim das formas de contatos -->
+<!-- Fim das formas de contatos. -->
+
+
 
 ---
-<!--  -->
+<!-- Início do texto sobre mim. -->
 
-<br/>
-<h3>Sobre mim:</h3>
-<br/>
+<br/> <h3>Sobre mim:</h3> <br/>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
-
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
+<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/><br/><br/>
 
-<p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 2º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/>
+<!-- Fim do texto sobre mim. -->
 
 
-<br/><br/>
+
+<!-- Início dos certificados da faculdade. -->
+
 <div align="center">
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Gold_medal" src="https://github.com/user-attachments/assets/ee13a258-43b8-4a61-b737-75fe72161b28"> </a>
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
-</div>
-<br/>
+</div> <br/>
+
+<!-- Tabela dos Certificados da Faculdade - 1ª parte. -->
 
 <table>
   <thead>
@@ -54,8 +58,10 @@
      <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e">
 <strong>📄 Visualizar... Certificado - Sistemas Digitais</strong> </a>
      </th>
-    
   </thead>
+
+<!-- Tabela dos Certificados da Faculdade - parte final -->
+  
   <tbody>
     <tr>
       <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp;<a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes.">Redes de Computadores:</a><br/><br/>
@@ -75,17 +81,20 @@
        <p align="justify"> - Data: 10/04/2026.</p></td>
     </tr>
   </tbody>
-</table>
-<br/><br/><br/>
+</table> <br/><br/><br/>
 
+<!-- Fim dos Certificados da Faculdade. -->
+
+
+
+<!-- Início dos Certificados de cursos extras. -->
 
 <div align="center">
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Silver_medal" src="https://github.com/user-attachments/assets/002a85a6-d9cd-4d52-a87b-c13371d9e8e9"> </a>
-
-<h1 align="center">Certificados adquiridos em cursos extras:</h1>
-<br/>
+<h1 align="center">Certificados adquiridos em cursos extras:</h1><br/>
 </div>
 
+<!-- Tabela dos Certificados de cursos extras - 1ª parte.  -->
 
 <table>
   <thead>
@@ -100,6 +109,9 @@
 <strong>📄 Visualizar... Certificado - Conclusão do curso de Hardware.</strong> </a>
     </th>
  </thead>
+
+<!-- Tabela dos Certificados de cursos extras - 2ª parte. -->
+
   <tbody>
     <tr>
   <td align="center" width="33%">
@@ -107,13 +119,11 @@
        <p align="justify"> - Instituição: Colégio e curso PH.</p>
        <p align="justify"> - Carga horária: 2.740h.</p>
        <p align="justify"> - Data: 15/12/2008.</p> </td>
-      
   <td align="center" width="33%">
        <p align="justify"> - Conclusão dos cursos: desde o mais básico ao avançado. Nível: intermediário (ainda não fluente).</p>
        <p align="justify"> - Instituição: FISK Centro de Ensino.</p>
        <p align="justify"> - Carga horária: Várias h.</p>
        <p align="justify"> - Data: 28/06/2011.</p> </td>
-       
   <td align="center" width="33%">
        <p align="justify"> - Curso de Montagem e Manutenção de Computadores, de Redes, de Celulares e de Notebooks.</p>
        <p align="justify"> - Instituição: Prepara Cursos.</p>
@@ -122,6 +132,7 @@
     </tr>
   </tbody>
 
+<!-- Tabela dos Certificados de cursos extras - 3ª parte. -->
 
 </table>
 <br/>
@@ -134,6 +145,8 @@
     <th><a href="https://github.com/user-attachments/assets/da3619a9-898b-48ac-bad6-0137209bf684">
 <strong>📄 Visualizar... Certificado - Conclusão do Curso de Windows, Internet e Pacote Office.</strong>
 </a> </th>
+
+<!-- Tabela dos Certificados de cursos extras - parte final. -->
     
   </thead>
   <tbody>
@@ -143,7 +156,6 @@
        <p align="justify"> - Instituição: TEMA Informática.</p>
        <p align="justify"> - Carga horária: 66h.</p>
        <p align="justify"> - Data: 20/12/2006.</p> </td>
-      
   <td align="center" width="50%">
        <p align="justify"> - Windows, Internet e Pacote Office.</p>
        <p align="justify"> - Instituição: Escola Profissionalizante JFW Informática.</p>
@@ -151,14 +163,18 @@
        <p align="justify"> - Data: 12/04/2005.</p></td>
     </tr>
   </tbody>
-</table>
-<br/><br/><br/>
+</table> <br/><br/><br/>
+
+
+
+<!-- Início dos Algorítmos e projetos diversos. -->
 
 <div align="center"> 
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e"> </a>
 <h1 align="center">Algorítimos e projetos diversos:</h1>
-</div>
-<br/>
+</div> <br/>
+
+<!-- Tabela de Algorítmos e projetos diversos. -->
 
 <table align="center">
   <tbody>
