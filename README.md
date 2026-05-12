@@ -9,7 +9,7 @@
 <!-- Início das formas de contatos. -->
 
 <h3> &nbsp;Contatos </h3>
-<a href="https://github.com/arthurjrd/" title="GitHub do Arthur: https://github.com/arthurjrd"target="_blank" rel="noopener noreferrer"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/6d4365c4-248a-4c7d-97aa-496eff3c4370" alt="texto" align="left"> </a>
+<a href="https://github.com/arthurjrd/" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/6d4365c4-248a-4c7d-97aa-496eff3c4370" alt="texto" align="left"> </a>
 <a href="mailto:dias.arthurjrd@hotmail.com" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> <img width="32" height="32" alt="Email" src="https://github.com/user-attachments/assets/f8fe4131-05a4-4e67-aad1-937f53a3fea6" alt="texto" align="left"> </a>
 <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/b14616de-ab16-413e-b2c8-3c3f07df5ad4" alt="texto" align="left"> </a>
 <a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/6dcc7e31-32a8-465d-ba6e-4d1cc9007de9" alt="texto" align="left"> </a>
@@ -35,7 +35,7 @@
 <!-- Início dos certificados da faculdade. -->
 
 <div align="center">
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Gold_medal" src="https://github.com/user-attachments/assets/ee13a258-43b8-4a61-b737-75fe72161b28"> </a>
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd" target="_blank" rel="noopener noreferrer"> <img width="64" height="64" alt="Gold_medal" src="https://github.com/user-attachments/assets/ee13a258-43b8-4a61-b737-75fe72161b28"> </a>
 <h1 align="center">Certificados adquiridos na faculdade:</h1>
 </div> <br/>
 
