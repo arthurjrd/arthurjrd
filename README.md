@@ -8,7 +8,7 @@
 
 <!-- Início das formas de contatos. -->
 
-<h3>&nbsp;Contatos:</h3>
+<h3> &nbsp;Contatos </h3>
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/6d4365c4-248a-4c7d-97aa-496eff3c4370" alt="texto" align="left"> </a>
 <a href="mailto:dias.arthurjrd@hotmail.com" title="E-mail do Arthur: dias.arthurjrd@hotmail.com"> <img width="32" height="32" alt="Email" src="https://github.com/user-attachments/assets/f8fe4131-05a4-4e67-aad1-937f53a3fea6" alt="texto" align="left"> </a>
 <a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/b14616de-ab16-413e-b2c8-3c3f07df5ad4" alt="texto" align="left"> </a>
@@ -22,7 +22,7 @@
 ---
 <!-- Início do texto sobre mim. -->
 
-<br/> <h3>Sobre mim:</h3> <br/>
+<br/> <h3> Sobre mim: </h3> <br/>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atualmente, estou em transição de carreira para TI, buscando uma oportunidade que me permita aplicar meus conhecimentos técnicos e continuar evoluindo na área que realmente me motiva. Tenho facilidade de aprendizado, pensamento lógico e grande interesse em desenvolvimento tecnológico. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Comprometido com meu crescimento profissional e em contribuir de forma positiva para uma boa equipe e os projetos da empresa que me escolher. </p>
