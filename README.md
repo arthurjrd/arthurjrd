@@ -1,4 +1,10 @@
+<!-- Barra inicial -->
+
 <a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=gradient&text=Arthur%20J%20R%20Dias-nl-Desenvolvedor%20de%20Hardware%20e%20Software&fontColor=fff&fontSize=40&fontAlign=50&fontAlignY=25"> </a>
+
+<!-- Fim da barra inicial -->
+
+<!-- Início das formas de contatos -->
 
 <h3>&nbsp;Contatos:</h3>
 
@@ -12,10 +18,12 @@
 
 <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a>
 
-
 <br/><br/><br/>
+<!-- Fim das formas de contatos -->
 
 ---
+<!--  -->
+
 <br/>
 <h3>Sobre mim:</h3>
 <br/>
@@ -37,7 +45,7 @@
 <table>
   <thead>
     <tr>
-      <th> <a target= "blank" href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071">
+      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071">
 <strong>📄 Visualizar... Certificado - Redes de Computadores</strong> </a>
       </th>
     <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd">
