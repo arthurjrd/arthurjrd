@@ -44,7 +44,7 @@
 <table>
   <thead>
     <tr>
-      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" alt="texto" target="_blank" rel="noopener">
+      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" alt="blank" rel="noopener">
 <strong>📄 Visualizar... Certificado - Redes de Computadores</strong> </a>
       </th>
     <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd" alt="texto" target="_blank" rel="noopener">
