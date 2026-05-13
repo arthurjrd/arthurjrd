@@ -10,10 +10,10 @@
 
 <h3> &nbsp;Contatos </h3>
 <a href="https://github.com/arthurjrd/" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="32" height="32" alt="GitHub" src="https://github.com/user-attachments/assets/6d4365c4-248a-4c7d-97aa-496eff3c4370" alt="texto" align="left"> </a>
-<a href="mailto:dias.arthurjrd@hotmail.com" title="E-mail do Arthur: dias.arthurjrd@hotmail.com" target="_blank" rel="noopener"> <img width="32" height="32" alt="Email" src="https://github.com/user-attachments/assets/f8fe4131-05a4-4e67-aad1-937f53a3fea6" alt="texto" align="left"> </a>
-<a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank" rel="noopener"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/b14616de-ab16-413e-b2c8-3c3f07df5ad4" alt="texto" align="left"> </a>
-<a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"target="_blank" rel="noopener"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/6dcc7e31-32a8-465d-ba6e-4d1cc9007de9" alt="texto" align="left"> </a>
-<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" target="_blank" rel="noopener"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a> <br/><br/><br/>
+<a href="mailto:dias.arthurjrd@hotmail.com" title="E-mail do Arthur: dias.arthurjrd@hotmail.com" target="_blank"> <img width="32" height="32" alt="Email" src="https://github.com/user-attachments/assets/f8fe4131-05a4-4e67-aad1-937f53a3fea6" alt="texto" align="left"> </a>
+<a href="https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" title="LinkedIn do Arthur: https://www.linkedin.com/in/arthur-jos%C3%A9-ramos-dias-333ccc" target="_blank"> <img width="32" height="32" alt="LinkedIn" src="https://github.com/user-attachments/assets/b14616de-ab16-413e-b2c8-3c3f07df5ad4" alt="texto" align="left"> </a>
+<a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"target="_blank"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/6dcc7e31-32a8-465d-ba6e-4d1cc9007de9" alt="texto" align="left"> </a>
+<a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a> <br/><br/><br/>
 
 <!-- Fim das formas de contatos. -->
 
@@ -44,13 +44,13 @@
 <table>
   <thead>
     <tr>
-      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" target="_blank" rel="noopener noreferrer">
+      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" target="_blank">
 <strong>📄 Visualizar... Certificado - Redes de Computadores</strong> </a>
       </th>
-    <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd" target="_blank" rel="noopener">
+    <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd" target="_blank">
 <strong>📄 Visualizar... Certificado - Circuitos Elétricos</strong> </a>
     </th>
-     <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e" target="_blank" rel="noopener">
+     <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e" target="_blank">
 <strong>📄 Visualizar... Certificado - Sistemas Digitais</strong> </a>
      </th>
   </thead>
@@ -59,17 +59,17 @@
   
   <tbody>
     <tr>
-      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp;<a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." target="_blank" rel="noopener">Redes de Computadores:</a><br/><br/>
+      <td align="center" width="33,%"> <br/> &nbsp;&nbsp;&nbsp;<a href="https://github.com/arthurjrd/redes-de-computadores/blob/main/README.md" title="Conteúdo programático: Introdução às redes de computadores, arquiteturas e protocolos de redes; e instalação e configuração de redes." target="_blank">Redes de Computadores:</a><br/><br/>
        <p align="justify"> - Criar uma arquitetura de rede de computadores.</p>
        <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
        <p align="justify"> - Carga horária: 100h.</p>
        <p align="justify"> - Data: 10/04/2026.</p> </td>
-      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." target="_blank" rel="noopener">Circuitos Elétricos:</a><br/><br/>
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arthurjrd/Circuitos-El-tricos/blob/main/README.md" title="Conteúdo programático: Circuitos elétricos em Corrente Contínua: sistemas de unidade; fontes; Leis de Kirchhoff; circuitos resistivos; tensão, corrente, potência e energia. Instrumentos de medição. Circuitos de Corrente Alternada: Senóides e fasores; elementos do circuito em corrente alternada e impedância; potência em corrente alternada e circuitos trifásicos. Materiais elétricos: propriedades e tipos; Condutores, semicondutores e isolantes; Magnetismo dos materiais." target="_blank">Circuitos Elétricos:</a><br/><br/>
        <p align="justify"> - Desenvolver um circuito elétrico para sistema de hardware.</p>
        <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
        <p align="justify"> - Carga horária: 100h.</p>
        <p align="justify"> - Data: 10/04/2026.</p></td>
-      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Conteúdo programático: Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." target="_blank" rel="noopener">Sistemas Digitais:</a><br/><br/>
+      <td align="center" width="33%"> <br/> &nbsp;&nbsp;&nbsp; <a href="https://github.com/arthurjrd/Sistemas-Digitais/blob/main/README.md" title="Conteúdo programático: Introdução à Eletrônica Digital, conversão de bases, aritmética binária, portas lógicas, circuitos combinacionais, circuitos combinacionais dedicados, codificadores e decodificadores, circuitos sequenciais, contadores e interface com o mundo analógico." target="_blank">Sistemas Digitais:</a><br/><br/>
        <p align="justify"> - Projetar um circuito lógico digital para resolver um problema prático.</p>
        <p align="justify"> - Instituição: Centro Universitário Celso Lisboa.</p>
        <p align="justify"> - Carga horária: 100h.</p>
@@ -94,13 +94,13 @@
 <table>
   <thead>
     <tr>
-      <th> <a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900" target="_blank" rel="noopener"> 
+      <th> <a href="https://github.com/user-attachments/assets/a6c900a4-7942-4a6e-8555-bd655deec900" target="_blank"> 
 <strong>📄 Visualizar... Certificado - Conclusão do ensino Médio.</strong> </a> 
       </th>
-    <th> <a href="https://github.com/user-attachments/assets/c149a3e7-692b-41ce-ba96-136657469fe3" target="_blank" rel="noopener">
+    <th> <a href="https://github.com/user-attachments/assets/c149a3e7-692b-41ce-ba96-136657469fe3" target="_blank">
 <strong>📄 Visualizar... Certificado - Conclusão do curso de Inglês.</strong> </a> 
     </th>
-     <th> <a href="https://github.com/user-attachments/assets/bc707150-4f0f-4a45-9a52-21ad0eeb85da" target="_blank" rel="noopener">
+     <th> <a href="https://github.com/user-attachments/assets/bc707150-4f0f-4a45-9a52-21ad0eeb85da" target="_blank">
 <strong>📄 Visualizar... Certificado - Conclusão do curso de Hardware.</strong> </a>
     </th>
  </thead>
@@ -134,10 +134,10 @@
 <table>
   <thead>
     <tr>
-      <th><a href="https://github.com/user-attachments/assets/27a567e5-3347-4e0e-92f1-288cbf26a553" target="_blank" rel="noopener"> 
+      <th><a href="https://github.com/user-attachments/assets/27a567e5-3347-4e0e-92f1-288cbf26a553" target="_blank"> 
 <strong>📄 Visualizar... Certificado - Conclusão do Curso de Web Design.</strong>
 </a> </th>
-    <th><a href="https://github.com/user-attachments/assets/da3619a9-898b-48ac-bad6-0137209bf684" target="_blank" rel="noopener">
+    <th><a href="https://github.com/user-attachments/assets/da3619a9-898b-48ac-bad6-0137209bf684" target="_blank">
 <strong>📄 Visualizar... Certificado - Conclusão do Curso de Windows, Internet e Pacote Office.</strong>
 </a> </th>
 
@@ -174,9 +174,9 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."target="_blank" rel="noopener"> </a> <br/>
+      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."target="_blank"> </a> <br/>
         
-<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank" rel="noopener"> Algorítmos em Python. </a> <br/><br/>
+<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank"> Algorítmos em Python. </a> <br/><br/>
     </tr>
   </tbody>
 </table>
