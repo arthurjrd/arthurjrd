@@ -44,13 +44,13 @@
 <table>
   <thead>
     <tr>
-      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" target="_blank" rel="noopener">
+      <th> <a href="https://github.com/user-attachments/assets/1f4e589b-21d2-4a9b-b979-90dc235b1071" alt="texto" target="_blank" rel="noopener">
 <strong>📄 Visualizar... Certificado - Redes de Computadores</strong> </a>
       </th>
-    <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd" target="_blank" rel="noopener">
+    <th> <a href="https://github.com/user-attachments/assets/4028b5ef-84b1-42b4-b37c-6704ba6163bd" alt="texto" target="_blank" rel="noopener">
 <strong>📄 Visualizar... Certificado - Circuitos Elétricos</strong> </a>
     </th>
-     <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e" target="_blank" rel="noopener">
+     <th> <a href="https://github.com/user-attachments/assets/aae78772-b181-4c94-ab42-37249b9b070e" alt="texto" target="_blank" rel="noopener">
 <strong>📄 Visualizar... Certificado - Sistemas Digitais</strong> </a>
      </th>
   </thead>
