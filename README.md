@@ -1,8 +1,6 @@
 <!-- Barra inicial. -->
 
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="1774" height="887" alt="ChatGPT Image 22 de mai  de 2026, 23_42_52" src="https://github.com/user-attachments/assets/fbfab133-5d5a-4444-b825-7e3bff9df70f" />
-
-
+<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="1474" height="470" alt="Sem título2" src="https://github.com/user-attachments/assets/66848b80-cfaf-454f-8a3e-45628ed79ebe" />
  </a>
 
 <!-- Fim da barra inicial. -->
