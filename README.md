@@ -118,7 +118,7 @@
   <td align="center" width="33%">
        <p align="justify"> - Conclusão dos cursos: desde o mais básico ao avançado. Nível: intermediário (ainda não fluente).</p>
        <p align="justify"> - Instituição: FISK Centro de Ensino.</p>
-       <p align="justify"> - Carga horária: Várias h.</p>
+       <p align="justify"> - Carga horária: Várias horas.</p>
        <p align="justify"> - Data: 28/06/2011.</p> </td>
   <td align="center" width="33%">
        <p align="justify"> - Curso de Montagem e Manutenção de Computadores, de Redes, de Celulares e de Notebooks.</p>
