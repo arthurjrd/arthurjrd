@@ -34,7 +34,7 @@
 
 <div align="center"> 
 <h1 align="center">Algorítimos e projetos diversos:</h1>
-</div> <br/>
+</div>
 
 <!-- Tabela de Algorítmos e projetos diversos. -->
 
