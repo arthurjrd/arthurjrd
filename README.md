@@ -30,19 +30,9 @@
 
 <!-- Fim do texto sobre mim. -->
 
-
-
-<!-- Início dos certificados da faculdade. -->
-
-<div align="center">
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Gold_medal" src="https://github.com/user-attachments/assets/ee13a258-43b8-4a61-b737-75fe72161b28"> </a>
-<h1 align="center">Certificados adquiridos na faculdade:</h1>
-</div> <br/>
-
 <!-- Início dos Algorítmos e projetos diversos. -->
 
 <div align="center"> 
-<a href="https://github.com/arthurjrd" title="GitHub do Arthur: https://github.com/arthurjrd"> <img width="64" height="64" alt="Bronze_medal" src="https://github.com/user-attachments/assets/84119e79-ac7d-4770-8fbb-797e746b872e"> </a>
 <h1 align="center">Algorítimos e projetos diversos:</h1>
 </div> <br/>
 
