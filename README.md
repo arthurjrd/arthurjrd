@@ -16,7 +16,7 @@
 <a href="https://www.instagram.com/arthur_jose_dias" title="Instagram do Arthur: https://www.instagram.com/arthur_jose_dias"target="_blank"> <img width="32" height="32" alt="Instagram" src="https://github.com/user-attachments/assets/6dcc7e31-32a8-465d-ba6e-4d1cc9007de9" alt="texto" align="left"> </a>
 <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a> <br/><br/><br/>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥&nbsp;&nbsp;&nbsp;Leia meu currículo no LinkedIn!!!
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;➥&nbsp;&nbsp;&nbsp;Leia meu currículo no LinkedIn!!!
 <!-- Fim das formas de contatos. -->
 
 ---
