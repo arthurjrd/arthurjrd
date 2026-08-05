@@ -33,7 +33,7 @@
 <!-- Início dos Algorítmos e projetos diversos. -->
 
 <div align="center"> 
-<h1 align="center">Algorítimos e projetos diversos:</h1>
+<h1 align="center">Projetos:</h1>
 </div>
 
 <!-- Tabela de Algorítmos e projetos diversos. -->
