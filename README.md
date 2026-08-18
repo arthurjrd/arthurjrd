@@ -17,7 +17,7 @@
 <a href="https://www.facebook.com/profile.php?id=100016664351877" title="Facebook do Arthur: https://www.facebook.com/profile.php?id=100016664351877" target="_blank"> <img width="32" height="32" alt="Facebook" src="https://github.com/user-attachments/assets/c9b994ce-bde5-4dac-8f8e-76ada851c837" alt="texto" align="left"> </a> <br/> <br/>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; ↳ &nbsp;&nbsp;&nbsp;Leia meu currículo no LinkedIn!!! <br/> <br/> <br/>
-&nbsp;&nbsp;&nbsp; Obs.: Não atendo o celular por estar trabalhando, contate-me pelo Whatsapp, meu número está no LinkedIn. Ou ainda por e-mail.
+&nbsp;&nbsp;&nbsp; <i>Obs.: Não atendo o celular por estar trabalhando, contate-me pelo Whatsapp, meu número está no LinkedIn. Ou ainda por e-mail. </i>
 
 <!-- Fim das formas de contatos. -->
 
