@@ -42,9 +42,28 @@
 <table align="center">
   <tbody>
     <tr>
-      <td align="center" width="33%"> <br/> <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados"> <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title= "Trabalhos realizados na matéria de algoritmos usando Python."target="_blank"> </a> <br/>
-        
-<a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank"> Algorítmos em Python. </a> <br/><br/>
+      <td align="center" width="33%">
+        <br/>
+        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados">
+          <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title="Trabalhos realizados na matéria de algoritmos usando Python." target="_blank">
+        </a>
+        <br/>
+        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank">
+          Algorítmos em Python.
+        </a>
+        <br/><br/>
+      </td>
+      <td align="center" width="33%">
+        <br/>
+        <a title="Descrição do novo projeto." href="https://github.com/seu-usuario/seu-novo-repo">
+          <img width="32" height="32" alt="Nome" src="URL_DO_ICONE" title="Descrição do novo projeto." target="_blank">
+        </a>
+        <br/>
+        <a title="Descrição do novo projeto." href="https://github.com/seu-usuario/seu-novo-repo" target="_blank">
+          Nome do novo projeto.
+        </a>
+        <br/><br/>
+      </td>
     </tr>
   </tbody>
 </table>
