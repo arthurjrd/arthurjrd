@@ -55,12 +55,12 @@
       </td>
       <td align="center" width="33%">
         <br/>
-        <a title="Descrição do novo projeto." href="https://github.com/seu-usuario/seu-novo-repo">
-          <img width="32" height="32" alt="Nome" src="URL_DO_ICONE" title="Descrição do novo projeto." target="_blank">
+        <a title="Trabalhos realizados com ESP32." href="https://github.com/seu-usuario/seu-novo-repo">
+          <img width="32" height="32" alt="Nome" src="https://github.com/user-attachments/assets/78851626-095e-46a1-9d9e-f8629ff6f3a4" title="Trabalhos realizados com ESP32." target="_blank">
         </a>
         <br/>
-        <a title="Descrição do novo projeto." href="https://github.com/seu-usuario/seu-novo-repo" target="_blank">
-          Nome do novo projeto.
+        <a title="Trabalhos realizados com ESP32." href="https://github.com/seu-usuario/seu-novo-repo" target="_blank">
+          Projetos com ESP32.
         </a>
         <br/><br/>
       </td>
