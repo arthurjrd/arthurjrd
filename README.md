@@ -51,7 +51,7 @@
         <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank">
           Algorítmos em Python.
         </a>
-        <br/><br/>
+        <br/><br/><td align="center" width="1%"> </td>
       </td>
       <td align="center" width="33%">
         <br/>
