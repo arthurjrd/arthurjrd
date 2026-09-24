@@ -42,6 +42,7 @@
 <table align="center">
   <tbody>
     <tr>
+     <br/><br/><td align="center" width="1%"> </td>
       <td align="center" width="33%">
         <br/>
         <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados">
@@ -64,6 +65,7 @@
         </a>
         <br/><br/>
       </td>
+ <br/><br/><td align="center" width="1%"> </td>
     </tr>
   </tbody>
 </table>
