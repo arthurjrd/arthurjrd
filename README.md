@@ -29,11 +29,3 @@
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Atuei por 10 anos em duas grandes empresas do setor comercial, onde desenvolvi habilidades sólidas de comunicação, relacionamento interpessoal e adaptação a diferentes perfis de clientes e equipes. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Embora essa experiência tenha sido fundamental para minha evolução profissional, identifiquei que minha afinidade está na área de Tecnologia da Informação. </p>
 <p text-align="justify"> &nbsp; &nbsp; &nbsp; Estou em início de carreira na área de TI, fazendo o 3º período de Engenharia da Computação, mas trago comigo uma sólida experiência profissional, disciplina e muita vontade de aprender e evoluir. </p> <br/>
-
-<!-- Fim do texto sobre mim. -->
-
-<!-- Início dos Algorítmos e projetos diversos. -->
-
-<div align="center"> 
-<h1 align="center">Projetos:</h1>
-</div>
