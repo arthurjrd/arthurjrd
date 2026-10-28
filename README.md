@@ -37,36 +37,3 @@
 <div align="center"> 
 <h1 align="center">Projetos:</h1>
 </div>
-
-<!-- Tabela de Algorítmos e projetos diversos. -->
-
-<table align="center">
-  <tbody>
-    <tr>
-     <td align="center" width="1%"> </td>
-      <td align="center" width="33%">
-        <br/>
-        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados">
-          <img width="32" height="32" alt="Python" src="https://github.com/user-attachments/assets/24c67ca0-192a-42e6-8e71-333943b848c5" title="Trabalhos realizados na matéria de algoritmos usando Python." target="_blank">
-        </a>
-        <br/>
-        <a title="Trabalhos realizados na matéria de algoritmos usando Python." href="https://github.com/arthurjrd/Trabalhos-de-algoritmos-e-estrutura-de-dados" target="_blank">
-          Algorítmos em Python.
-        </a>
-        <td align="center" width="1%"> </td>
-      </td>
-      <td align="center" width="33%">
-        <br/>
-        <a title="Trabalhos realizados com ESP32." href="https://github.com/arthurjrd/Trabalhos-com-ESP32.git">
-          <img width="32" height="32" alt="Nome" src="https://github.com/user-attachments/assets/78851626-095e-46a1-9d9e-f8629ff6f3a4" title="Trabalhos realizados com ESP32." target="_blank">
-        </a>
-        <br/>
-        <a title="Trabalhos realizados com ESP32." href="https://github.com/arthurjrd/Trabalhos-com-ESP32.git" target="_blank">
-          Projetos com ESP32.
-        </a>
-        <br/><br/>
-      </td>
- <td align="center" width="1%"> </td>
-    </tr>
-  </tbody>
-</table>
